@@ -2,11 +2,43 @@
 
 Här är måsta vanliga frågor, som är:
 
+ * Börja
  * Ålder
  * Material
  * Beteende för barn
  * Beteende för föräldrar
+ * Beteende för frivilligar
+ * Pris
+ * Personen
 
+## Börja
+
+### När får jag börjar?
+
+Alltid!
+
+Det skulle vara trävligt när du schickar en emelj till 
+Richel, `richel@richelbilderbeek.nl`, så att han är redo för dig :-)
+
+### Får jag också versöka en dag?
+
+Javisst! 
+
+Det kostar ingenting också! 
+
+Det skulle vara trävligt när du schickar en emelj till 
+Richel, `richel@richelbilderbeek.nl`, så att han är redo för dig :-)
+
+### När får jag slutar?
+
+Alltid!
+
+Programmering är inte en hobby för alla. 
+Det är jättebra när du har upptäckt du gillar om
+andra saker mer!
+
+Det skulle vara trävligt när du set saga till 
+Richel, så att han kann ge tillbaka kurskostnader.
 
 ## Ålder
 
@@ -47,16 +79,50 @@ bästa med [Processing installerat](https://processing.org/download/).
 
 Nej, det är inte viktigt för programmera.
 Ännu värre: det hjälper **mot** att blir en stor programmerare!
+
 Snälla, lämna din mobil hemma och stelle den av.
 
 ## Beteende för barn
 
-### Kan jag göra spel?
+### Vad händer på en vanlig dag?
+
+Du kommar hit när dorren är öppet 
+och ställa upp din bärbar dator.
+När kurs börja, göra vi uppgifter i böckarna,
+tillsammans med dina bordkompissar.
+
+I rast ha vi lemonad och göra vi någonting att koplar av lite.
+
+Efter rast förtsätter vi igen.
+
+I slutet städar vi upp.
+
+### Vad händer på en presentation?
+
+Det här är en speciell dag att som vi presentera våra mästerverkar.
+Det är alltid pa en-men-sista dag på säsongen.
+
+Du får bjuda in din helt familj och alla dina vänner 
+(för att corona det tillatet!).
+
+Efter det finns det alltid en (anonym!) utvärdering
+från kursen. Vi vet, det är alltid tråkigaste från helt säsongen,
+men ockå jättaviktigt att förbättra kursen!
+
+![](pics/20190705_3.jpg)
+
+### Vad händer på en händelse?
+
+När det är mogligt, åker vi till en händelse.
+Där lära vi andra tonårigen programmera. 
+
+![](pics/20180210OpenDagDjo_3.jpg)
+
+### Kan jag göra datorspelar?
 
 Oh ja!
 
-I själva verket spelprogrammering 
-är ett av de roligaste sätten att lära sig programmering.
+Att göra en datorspelar är en av roligaste sätten att lära sig programmering.
 
 ### Kan jag spela?
 
@@ -80,6 +146,15 @@ då får du visa din spelet och testa det.
    * Namnlista
    * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
 
+### Jag kan inte kom på en dag!
+
+Ingen problem! 
+
+Det är trävligt när du schicka en emalj till Richel, 
+`richel@richelbilderbeek.nl`, 
+så hon vet du göra någonting
+cool andra!
+
 ## Beteende för föräldrar
 
 ### Är jag vilkommen att stänna?
@@ -99,12 +174,23 @@ Ett tips: kommer 5 minuter före slutet för en kort titt :-)
 Javisst! Du kann bli en frivilligare. 
 För din(a) barn versöker vi det du är i olika grup som din(a) barn.
 
+### Min(a) barn kan inte kom på en dag!
+
+Ingen problem! 
+
+Det är trävligt när du schicka en emalj till Richel, 
+`richel@richelbilderbeek.nl`, 
+så hon vet din(a) barn göra någonting
+cool andra!
+
 ## Beteende för frivilligare
 
 ### Är jag vilkommen?
 
 Javisst!
 
+Mål är att som mest det är en vuxen på fyra barn.
+Det är viktigt för att ha en barn-fulla atmosphär. 
 
 ## Lektioner och läromedel
 
@@ -124,18 +210,103 @@ Processing lektionerna finns på webbplatsen
 
 ## Jag vill göra någon med händer, är det möjligt?
 
-Javiss, men inte här; dit är bara en programmeringskurs.
+Javiss, men inte här: dit är bara en programmeringskurs.
 
-Lyckligtvis, det finns det också den Makerkids i Uppsala Makerspace!
+Lyckligtvis, det finns också den Makerkids i Uppsala Makerspace!
 [Ser aktivitäter her](https://www.uppsalamakerspace.se/aktiviteter).
 
-## Människor
+## Pris
+
+### Vad kostar kursen?
+
+[Dit är en förslag]
+
+ * 400 SEK för medlemma
+ * 600 SEK för ej-medlemma
+
+### Jag kan inte betalar kurs. Vad bör jag göra?
+
+Vi tycker penger skulle bli inte en problem.
+Saga det till Richel och förmodligen vet han en lösning.
+
+### Varför kostar kursen så lite?
+
+För att vi arbetar med frivilligar.
+Alla kostnader är för böckerna och limonad.
+
+### Varför finss det två prisar?
+
+Kursen har två prisar: en för Uppsala Makerspace medlemmar
+och en för ej-medlemmar.
+
+Det lägsta priset är för Uppsala Makerspace medlemmar, 
+som enkelt betalar böckerna och lemonad, för at
+Uppsala Makerspace medlemmar redan betala kosten från 
+använder Makerspacet.
+
+Det högsta priset är för ej-medlemmar, för att 
+ej-medlemmar måsta också (samma som medlemmar) 
+betala kosten från
+använder Makerspacet.
+
+### Varför kostar kursen samma mellan höst och vår?
+
+Enkelt för att det är lättare för administration.
+
+Fastän höst är kortare (och på grund av det är kursen dyrare),
+vi tycker det är bättre prisar är enkla.
+
+### Hur är pris från kursen räknet?
+
+Här är hur pris från kursen är räknet, 
+med prisar från [pixelpalace.se](http://pixelpalace.se/).
+Också, prisa är räknet pessimistisk.
+
+Kurs är 8 böcker i total, varje bok är max 30 doppel-sida (faltet) A4.
+
+ * Färg: 1 bok är 175 SEK (när enkelt, 100 SEK pro 10)
+ * Svart-vid: 1 bok är 100 SEK (när enkelt, 400 SEK pro 10)
+
+2 certifikator:
+
+ * Färg: 1 certifikat är 54 SEK
+
+Lektionskort:
+
+ * Svart-vid: 1 kort är 43 SEK (när enkelt, 65 SEK pro 10, 90 SEK pro 20)
+
+Lemonad:
+
+ * 40 SEK per flask för 10 elever
+
+Presentation:
+
+Per elev, 30 SEK:
+ * Kaffe för 1 föräldrar, 5 SEK
+ * te för 1 föräldrar, 5 SEK
+ * limonade för barn och 1 gast, 10 SEK
+ * Kakor, 4 personar, 10 SEK 
+
+Pro elev och semester:
+
+ * 4x SV böcker = 400 SEK
+ * 1x certificat = 54 SEK
+ * 1x lektionskort = 43 SEK
+ * 2x flask lemonad = 80 SEK
+ * Presentation: 30 SEK
+
+Det betyder, 
+när det finns inga böcker, 
+kostnader är 610 SEK pro elev pro semester.
+Dit är en pessimistisk uppskattning.
+
+## Personen
 
 ### Vem är volontärer?
 
  * Richel
 
-### Vem är [Richel] (https://github.com/richelbilderbeek)?
+### Vem är [Richel](https://github.com/richelbilderbeek)?
 
 ![Richel](pics/richelbilderbeek.png)
 
@@ -150,38 +321,4 @@ lärare på en Högstadiet.
 Hans arbete kan ses på 
 [hans webbplats med mer än 3900 sidor](http://richelbilderbeek.nl) 
 och [mer än 1200 GitHub-arkiv] (https://github.com/richelbilderbeek?tab=repositories).
-
-
-## Andere frågor
-
-### Varför kostar kursen så lite?
-
-För att vi arbetar med frivilligar.
-Alla kostnader är för böckerna.
-
-Prisar från [pixelpalace.se](http://pixelpalace.se/).
-
-Kurs är 8 böcker som är max 30 doppel-sida (faltet) A4.
-
- * Färg: 1 bok är 175 SEK (när enkelt, 100 SEK pro 10)
- * Svart-vid: 1 bok är 100 SEK (när enkelt, 400 SEK pro 10)
-
-2 certifikator:
-
- * Färg: 1 certifikat är 54 SEK
-
-Lektionskort:
-
- * Svart-vid: 1 kort är 43 SEK (när enkelt, 65 SEK pro 10, 90 SEK pro 20)
-
-Pro elev och semester:
-
- * 4x SV böcker = 400 SEK
- * 1x certificat = 54 SEK
- * 1x lektionskort = 43 SEK
-
-Det betyder, 
-när det finns inga böcker, 
-kostnader är 500 SEK pro elev pro semester.
-
 

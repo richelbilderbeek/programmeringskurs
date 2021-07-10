@@ -19,24 +19,24 @@ Därefter, inom ett team, kan du välja själv.
 
 Se "Schema" nedan för mer information.
 
-## Schema
+## Dagschema
 
  * Dag: Varje lordag, utom på helgdagar och under julhelgen
  * Ålder: 8-18 år [*](faq.md)
 
 När  |Vad
------|------
+-----|---------
 10:00|Dör öppet
 10:15|Börja
 11:00|Rast
 11:15|Fortsatt
 12:00|Slut
 
- * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/] (https://www.uppsalamakerspace.se/),
+ * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per student:
-   * September till december: 250 SEK
-   * Januari till maj: 250 SEK
+   * September till december: 400 SEK för Uppsala Makerspace medlemmar, 600 SEK för andra [Dit är en förslag]
+   * Januari till maj: [samma] SEK för Uppsala Makerspace medlemmar, [samma] SEK för andra
  * Ålder: 8-18 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
@@ -45,4 +45,15 @@ Din första lektion kan vara varje dag.
 Om du vet när du kommer är det trevligt om du registrerar dig
 att [CONTACT FORM].
 
-Har du en annan fråga? Se [vanliga frågor](faq.md)
+## Årschema
+
+När      |Vad
+---------|----------------------------
+September|Kurs börjat
+December |Presentation och utvärdering
+Januari  |Kurs fortsätt
+
+## Har du en annan fråga?
+
+Har du en annan fråga? Se [vanliga frågor](faq.md).
+
