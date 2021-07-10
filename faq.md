@@ -169,7 +169,7 @@ Oh ja!
 
 Att göra en datorspelar är en av roligaste sätten att lära sig programmering.
 
-![](nature_zen.png)
+![](pics/nature_zen.png)
 
 > Nature Zen är en datorspel som är på Steam
 
