@@ -2,12 +2,12 @@
 
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
-Att berätta för datorer vad dem ska göra är kärnan i programmeringen.
+Att berätta att datorer vad dem ska göra är kärnan i programmeringen.
 Vill du kunna göra det också? Varje vecka kan du besöka oss
-och lära sig att göra något coolt (spel!) på datorn.
+och lära sig att göra något coolt (datorspel!) på datorn.
 
-Först arbetar du separat från broschyrer för att lära dig början. 
-Sedan går du delta i ett lag. 
+Först arbetar du genom våra lilla böcker för att lära dig början.
+Efter din första certificat får du joina din egen programmererlag. 
 Och kanske efter det kommer du att leda ett lag!
 
 Ingen förkunskaper krävs.
@@ -23,11 +23,14 @@ Se "Schema" nedan för mer information.
 
  * Dag: Varje lordag, utom på helgdagar och under julhelgen
  * Ålder: 8-18 år [*](faq.md)
- * Dör öppet: 10:00
- * Starta lektionen: 10:15
- * Rast: 11:00
- * Fortsatt lektion: 11:15
- * Slut på lektionen: 12:00
+
+När  |Vad
+-----|------
+10:00|Dör öppet
+10:15|Börja
+11:00|Rast
+11:15|Fortsatt
+12:00|Slut
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/] (https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
