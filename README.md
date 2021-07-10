@@ -1,6 +1,6 @@
 # programmering_foer_tonaaringskurs
 
-![](uppsala_makerspace.png)![](processing3-logo.png)
+![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
 Att berätta för datorer vad dem ska göra är kärnan i programmeringen.
 Vill du kunna göra det också? Varje vecka kan du besöka oss

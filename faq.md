@@ -120,7 +120,7 @@ Jo det kan du! [Ladda ner Processing här](https://processing.org/download/).
 Processing lektionerna finns på webbplatsen
 [Processing för tonåringar] (https://github.com/richelbilderbeek/processing_foer_tonaaringar).
 
-![](processing3-logo.png)
+![](pics/processing3_logo_50.png)
 
 ## Jag vill göra någon med händer, är det möjligt?
 
@@ -137,7 +137,7 @@ Lyckligtvis, det finns det också den Makerkids i Uppsala Makerspace!
 
 ### Vem är [Richel] (https://github.com/richelbilderbeek)?
 
-![Richel](richelbilderbeek.png)
+![Richel](pics/richelbilderbeek.png)
 
 Richel är en vuxen volontär och samordnar kursen.
 
