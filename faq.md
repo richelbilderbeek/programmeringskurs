@@ -90,13 +90,38 @@ Snälla, lämna din mobil hemma och stelle den av.
 För att vi har gode böcker för det och frivilligar som
 känner det.
 
-### Varför lära ni inte [din favoritdatorspråk]?
+Dessutom, Processing är en dialekt från Java, en av måsta
+användeta datorspråkor i världen nu.
+
+### Varför lära ni inte Scratch?
+
+För att vi har ser att det funkar inte bra i en kurs,
+för att det är sä lätt att enkel spelar eksempeldatorspelar.
+
+Dessutom, Processing är en riktigt datorspråk i
+där du måste skriva in dina kommandon.
+
+Ett tips: när du vil undervisa din(a) barn individuelt
+är Scratch en jättebra språk for att börjar med!
+
+### Varför lära ni inte [en andra favoritdatorspråk]?
 
 För att vi had inte gode böcker för det och 
 våra frivilligar känner det inte.
 
 När du vill undervisa det, 
 är det möjligt att ska bli en frivilligar :-)
+
+### Får jag ockå lära mig en andra datorspråk?
+
+Ja, när:
+
+ * du har din första certificat
+ * du föreslag en lag av dig och tre andra barn
+
+Förmodligen ska det bli andra datorspråkor (till eksempel,
+Arduino, mBot, C++) i framtiden,
+men inte redan nu.
 
 ## Beteende för barn
 
@@ -143,6 +168,10 @@ Där undervisa vi andra tonårigen programmera.
 Oh ja!
 
 Att göra en datorspelar är en av roligaste sätten att lära sig programmering.
+
+![](nature_zen.png)
+
+> Nature Zen är en datorspel som är på Steam
 
 ### Kan jag spela?
 

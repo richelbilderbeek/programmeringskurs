@@ -1,4 +1,4 @@
-# programmering_foer_tonaaringskurs
+# Programmering för tonåringskurs
 
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
