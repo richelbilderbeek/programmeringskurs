@@ -5,6 +5,7 @@ Här är måsta vanliga frågor, som är:
  * Börja
  * Ålder
  * Material
+ * Processing
  * Beteende för barn
  * Beteende för föräldrar
  * Beteende för frivilligar
@@ -82,6 +83,21 @@ Nej, det är inte viktigt för programmera.
 
 Snälla, lämna din mobil hemma och stelle den av.
 
+## Processing
+
+### Varför lära ni Processing?
+
+För att vi har gode böcker för det och frivilligar som
+känner det.
+
+### Varför lära ni inte [din favoritdatorspråk]?
+
+För att vi had inte gode böcker för det och 
+våra frivilligar känner det inte.
+
+När du vill undervisa det, 
+är det möjligt att ska bli en frivilligar :-)
+
 ## Beteende för barn
 
 ### Vad händer på en vanlig dag?
@@ -111,12 +127,16 @@ men ockå jättaviktigt att förbättra kursen!
 
 ![](pics/20190705_3.jpg)
 
+> Nederländska barn tar en presentation
+
 ### Vad händer på en händelse?
 
 När det är mogligt, åker vi till en händelse.
-Där lära vi andra tonårigen programmera. 
+Där undervisa vi andra tonårigen programmera. 
 
 ![](pics/20180210OpenDagDjo_3.jpg)
+
+> Nederländska barn undervisa andra barn på en händelse
 
 ### Kan jag göra datorspelar?
 

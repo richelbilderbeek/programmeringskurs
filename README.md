@@ -21,7 +21,7 @@ Se "Schema" nedan för mer information.
 
 ## Dagschema
 
- * Dag: Varje lordag, utom på helgdagar och under julhelgen
+ * Dag: Varje lordag, utom på röddagor, sommarlov och jullov
  * Ålder: 8-18 år [*](faq.md)
 
 När  |Vad
@@ -43,7 +43,9 @@ När  |Vad
 Din första lektion kan vara varje dag. 
 Även utan förvarning.
 Om du vet när du kommer är det trevligt om du registrerar dig
-att [CONTACT FORM].
+att [?].
+
+Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 ## Årschema
 
@@ -52,8 +54,4 @@ När      |Vad
 September|Kurs börjat
 December |Presentation och utvärdering
 Januari  |Kurs fortsätt
-
-## Har du en annan fråga?
-
-Har du en annan fråga? Se [vanliga frågor](faq.md).
 
