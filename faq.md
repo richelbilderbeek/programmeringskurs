@@ -161,7 +161,7 @@ Där undervisa vi andra tonårigen programmera.
 
 ![](pics/20180210OpenDagDjo_3.jpg)
 
-> Nederländska barn undervisa andra barn på en händelse
+> Nederländska barn (i oranga T-skjörtor) undervisa andra barn på en händelse
 
 ### Kan jag göra datorspelar?
 
