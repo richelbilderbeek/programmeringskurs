@@ -1,4 +1,12 @@
-# FAQ
+# Vanliga frågor
+
+Här är måsta vanliga frågor, som är:
+
+ * Ålder
+ * Material
+ * Beteende för barn
+ * Beteende för föräldrar
+
 
 ## Ålder
 
@@ -28,7 +36,20 @@ gillar att undervisas av minderåriga.
 
 Kort sagt: kom förbi!
 
-## Beteende
+## Material
+
+### Vad brukar jag tar med?
+
+Du brukar enkelt en bärbar dator med laddare, 
+bästa med [Processing installerat](https://processing.org/download/).
+
+### Brukar jag tar med min mobil?
+
+Nej, det är inte viktigt för programmera.
+Ännu värre: det hjälper **mot** att blir en stor programmerare!
+Snälla, lämna din mobil hemma och stelle den av.
+
+## Beteende för barn
 
 ### Kan jag göra spel?
 
@@ -44,20 +65,46 @@ Dit är en kurs där lärande kommer först.
 Spel bidrar inte till att lära sig programmera.
 Inte ens före kursen, inte ens under rast och inte efter slut.
 Har du *själv* programmerat ett spel,
-då får du utrymme att visa spelet och testa det.
+då får du visa din spelet och testa det.
 
 ### Vem ställer jag en fråga?
 
-  * Sitter det en student bredvid dig? Om ja, då är han/hon.
-  * Finns det en student vid ditt bord? Om ja, då är han/hon
-  * Om ingen är där eller ingen vet, fråga en vuxen
+ * Sitter det en student bredvid dig? Om ja, då är han/hon.
+ * Finns det en student vid ditt bord? Om ja, då är han/hon
+ * Om ingen är där eller ingen vet, fråga en vuxen
 
 ### Vad händer om en ny student kommer in?
 
  * Värd/värdinna tar hand om honom/henne:
-    * Lägg på din kappa
-    * Namnlista
-    * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
+   * Lägg på din kappa
+   * Namnlista
+   * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
+
+## Beteende för föräldrar
+
+### Är jag vilkommen att stänna?
+
+Föräldrar är alltid vilkommen att kolla lite att våra jättebra kurs.
+
+Oavsett, för din barn är det bättre det hon/han kann göra nya
+kompissar (och dina problemen med det!). 
+Därför frågor vi det du -när det är möjligt- åker tillbaka
+efter lämnar din(a) barn. Förutom det finns det mycket plats
+i vårs Makerspace var du kan göra dina egena saker.
+
+Ett tips: kommer 5 minuter före slutet för en kort titt :-)
+
+### Är jag vilkommen att hjälpa?
+
+Javisst! Du kann bli en frivilligare. 
+För din(a) barn versöker vi det du är i olika grup som din(a) barn.
+
+## Beteende för frivilligare
+
+### Är jag vilkommen?
+
+Javisst!
+
 
 ## Lektioner och läromedel
 
@@ -75,9 +122,16 @@ Processing lektionerna finns på webbplatsen
 
 ![](processing3-logo.png)
 
+## Jag vill göra någon med händer, är det möjligt?
+
+Javiss, men inte här; dit är bara en programmeringskurs.
+
+Lyckligtvis, det finns det också den Makerkids i Uppsala Makerspace!
+[Ser aktivitäter her](https://www.uppsalamakerspace.se/aktiviteter).
+
 ## Människor
 
-### Vilka volontärer finns det?
+### Vem är volontärer?
 
  * Richel
 

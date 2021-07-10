@@ -1,5 +1,7 @@
 # programmering_foer_tonaaringskurs
 
+![](uppsala_makerspace.png)![](processing3-logo.png)
+
 Att berätta för datorer vad dem ska göra är kärnan i programmeringen.
 Vill du kunna göra det också? Varje vecka kan du besöka oss
 och lära sig att göra något coolt (spel!) på datorn.
@@ -20,8 +22,7 @@ Se "Schema" nedan för mer information.
 ## Schema
 
  * Dag: Varje lordag, utom på helgdagar och under julhelgen
-
- * Ålder: 8-18 år [*]
+ * Ålder: 8-18 år [*](faq.md)
  * Dör öppet: 10:00
  * Starta lektionen: 10:15
  * Rast: 11:00
@@ -33,14 +34,12 @@ Se "Schema" nedan för mer information.
  * Kostnad per student:
    * September till december: 250 SEK
    * Januari till maj: 250 SEK
- * Ålder: 8-18 år [*]
- * Krav: Det skulle vara trevligt om du tar med en bärbar dator med WiFi.
-   Men vi har också några bärbara datorer att låna. Ta med ett USB-minne som
-   du vill spara din kod.
+ * Ålder: 8-18 år [*](faq.md)
+ * Krav: en bärbar dator med WiFi [*](faq.md)
 
 Din första lektion kan vara varje dag. 
 Även utan förvarning.
 Om du vet när du kommer är det trevligt om du registrerar dig
 att [CONTACT FORM].
 
-Har du en annan fråga? Se [FAQ](faq.md)
+Har du en annan fråga? Se [vanliga frågor](faq.md)
