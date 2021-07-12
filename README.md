@@ -1,21 +1,20 @@
-# Programmering för tonåringskurs
+# Programmeringskurs för tonåringar
 
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
-Att berätta att datorer vad dem ska göra är kärnan i programmeringen.
-Vill du kunna göra det också? Varje vecka kan du besöka oss
-och lära sig att göra något coolt (datorspel!) på datorn.
+Att berätta för datorn vad den ska göra är kärnan inom programmering.
+Vill du också kunna göra det? Varje vecka kan du besöka oss
+och lära dig att göra något coolt (datorspel!) på datorn.
 
-Först arbetar du genom våra lilla böcker för att lära dig början.
-Efter din första certificat får du joina din egen programmererlag. 
-Och kanske efter det kommer du att leda ett lag!
+Först arbetar du dig igenom våra häften för att lära dig grunderna.
+Efter ditt första diplom får du joina ett programmeringslag. 
+Och efter det, kanske du kommer att leda ditt eget lag!
 
 Ingen förkunskaper krävs.
 
-Den här eftern är en kurs där lärande att programmera tillsammans 
-är av största vikt.
-Du börjar alltid med Processing. 
-Därefter, inom ett team, kan du välja själv.
+Det viktigaste i kursen är att lära sig programmera tillsammans.
+Du börjar alltid med programmeringsspråket Processing.
+Därefter, när du är i ett lag, kan ni välja ert eget programmeringsspråk.
 
 Se "Schema" nedan för mer information.
 
