@@ -1,47 +1,43 @@
 # Vanliga frågor
 
-Här är måsta vanliga frågor, som är:
+Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
 
- * Börja
- * Ålder
- * Material
- * Processing
- * Beteende för barn
- * Beteende för föräldrar
- * Beteende för frivilligar
- * Pris
- * Personen
+ * Komma igång
+ * Ålder på deltagare
+ * Kursmaterial
+ * Programmeringsspråk - Processing (Java)
+ * Förväntningar på deltagande (barn)
+ * Förväntningar på föräldrar
+ * Förväntningar på volontärer / frivilliga
+ * Kostnad för kursen
+ * Mer om läraren
 
-## Börja
+## Komma igång
 
-### När får jag börjar?
+### När kan jag börja?
 
-Alltid!
+När som helst!
 
-Det skulle vara trävligt när du schickar en emelj till 
-Richel, `richel@richelbilderbeek.nl`, så att han är redo för dig :-)
+Det är alltid trevligt om du skickar ett mejl först till Richel, `richel@richelbilderbeek.nl`, så att han kan ta emot dig :-)
 
-### Får jag också versöka en dag?
+### Kan jag prova på en gång?
 
-Javisst! 
+Javisst!
 
-Det kostar ingenting också! 
+Det kostar ingenting första gången, det är viktigt att deltagarna känner att de hamnat rätt! 
 
-Det skulle vara trävligt när du schickar en emelj till 
-Richel, `richel@richelbilderbeek.nl`, så att han är redo för dig :-)
+Men skicka gärna ett mejl först till Richel, `richel@richelbilderbeek.nl`, så att är beredd att ta emot dig. :-)
 
-### När får jag slutar?
+### Om jag inte trivs, kan jag sluta när som helst?
 
-Alltid!
+Självklart!
 
-Programmering är inte en hobby för alla. 
-Det är jättebra när du har upptäckt du gillar om
-andra saker mer!
+Programmering är inte en hobby för alla.
+Det är jättebra att du säger till om du har upptäckt att du gillar andra saker mer!
 
-Det skulle vara trävligt när du set saga till 
-Richel, så att han kann ge tillbaka kurskostnader.
+Men berätta gärna för Richel, om du precis börjat kan du få tillbaka kursavgiften.
 
-## Ålder
+## Ålder på deltagare
 
 ### Jag är under 8 år. Är jag välkommen?
 
@@ -49,144 +45,130 @@ Tack för att du läste detta, för 8 år är bara en riktlinje!
 Denna riktlinje finns av en anledning: programmering är en
 svår (men cool!) hobby.
 
-Men är du yngre än 8 år och du kan redan programmera,
-då är du mycket välkommen!
+Om du är yngre än 8 år och redan har kommit igång med att programmera är du mycket välkommen!
 
-Vi vet av erfarenhet att barn under 8 år som regel är
-kan komma överens dåligt.
+Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att koncentrera sig långa stunder och det krävs också mer av läraren. Så vår riktlinje är att man bör vara minst 8 år gammal.
 
 ### Jag är över 18 år. Är jag välkommen?
 
 Bra att du läste detta, för 18 år är bara en riktlinje!
-Denna riktlinje finns av en anledning: kursen 
-är första för minderåriga.
+Men kursen är i första hand riktad till minderåriga och de kommer få mest uppmärksamhet av läraren.
 
-Men det är väldigt trevligt att ha vuxna på kursen: 
-barnen kommer att utbilda dig (de lär sig av detta!) 
-och dra nytta av lugnet
-som vuxna brukar ta med sig. Och många vuxna
-gillar att undervisas av minderåriga.
+Samtidigt är det väldigt trevligt att ha vuxna på kursen, de bidrar till ett större lugn. Men om du deltar får du räkna med att jag kommer uppmuntra barnen att vara lärare till dig (de lär sig av detta)!
 
 Kort sagt: kom förbi!
 
-## Material
+## Kursmaterial
 
-### Vad brukar jag tar med?
+### Vad ska jag ta med?
 
-Du brukar enkelt en bärbar dator med laddare, 
-bästa med [Processing installerat](https://processing.org/download/).
+Du behöver en bärbar dator med laddare, observera att datorn inte behöver vara särskilt snabb eller avancerad då programmering inte kräver så mycket.
+Det bästa är om du redan i förväg har [installerat Processing](https://processing.org/download/).
 
-### Brukar jag tar med min mobil?
+### Behöver jag ta med mig min mobil?
 
-Nej, det är inte viktigt för programmera.
-Ännu värre: det hjälper **mot** att blir en stor programmerare!
+Nej, det är inte viktigt för att komma igång och programmera.
+Det är faktiskt så att en mobil snarare stör din koncentration och kan hindra dig från att bli en bra programmerare! Erfarna programmerare brukar ofta bli irriterade när de blir störda mitt i, det bryter deras "flow" och ett enkelt avbrott kan göra att det tar 15-30 minuter att återfå koncentrationen.
 
-Snälla, lämna din mobil hemma och stelle den av.
+Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
 ## Processing
 
-### Varför lära ni Processing?
+### Varför ska jag lära mig just Processing?
 
-För att vi har gode böcker för det och frivilligar som
-känner det.
+Processing är ett programmeringsspråk som är framtaget för att ge en bra introduktion till programmering. Processing är också en dialekt av det populära programmeringsspråket Java och kan därmed bli ett naturligt steg mot mer avancerad programmering.  
 
-Dessutom, Processing är en dialekt från Java, en av måsta
-användeta datorspråkor i världen nu.
+Det är också så att vi har undervisningsmaterial och tidigare erfarenhet av undervisning i Processing vilket gör att du kan få bra hjälp.
 
-### Varför lära ni inte Scratch?
+### Varför inte använda Scratch?
 
-För att vi har ser att det funkar inte bra i en kurs,
-för att det är sä lätt att enkel spelar eksempeldatorspelar.
+Vår erfarenhet är att det fungerar mindre bra i en kurs av framförallt tre skäl:
+1. Det är lätt att fastna i moment som är kreativa men som har mer med konst och storytelling än programmering att göra. 
+2. Det är lätt att fastna i att spela olika färdiga program snarare än att skriva egna.
+3. Scratch påminner är ett visuellt sätt att programmera som inte påminner så mycket om riktiga programmeringsspråk, det gör däremot processing.
 
-Dessutom, Processing är en riktigt datorspråk i
-där du måste skriva in dina kommandon.
+Men scratch är ändå ett bra första steg för att komma igång, särskilt för yngre barn. Använd det gärna om du vill undervisa din(a) barn individuellt.
 
-Ett tips: när du vil undervisa din(a) barn individuelt
-är Scratch en jättebra språk for att börjar med!
+### Varför använder ni inte istället programmeringspråket [ditt favoritspråk]?
 
-### Varför lära ni inte [en andra favoritdatorspråk]?
+Det handlar till viss del om att ha bra undervisningsmaterial att utgå från och erfarenhet hos våra lärare och volontärer.
 
-För att vi had inte gode böcker för det och 
-våra frivilligar känner det inte.
+Men hör gärna av dig, det är möjligt att utvidga till fler programmeringsspråk.
 
-När du vill undervisa det, 
-är det möjligt att ska bli en frivilligar :-)
-
-### Får jag ockå lära mig en andra datorspråk?
+### Får jag ockå lära mig fler programmeringsspråk?
 
 Ja, när:
 
- * du har din första certificat
- * du föreslag en lag av dig och tre andra barn
+ * du har fått ditt första certifikat
+ * du föreslår ett lag där du och tre andra barn ingår
 
-Förmodligen ska det bli andra datorspråkor (till eksempel,
-Arduino, mBot, C++) i framtiden,
-men inte redan nu.
+Det kan vara programmeringspråk som:
+ * C++ för Arduino
+ * mBot
+ * Javacsript
 
-## Beteende för barn
+## Förväntningar på deltagande (barn)
 
-### Vad händer på en vanlig dag?
+### Vad händer på ett vanligt kurstillfälle?
 
-Du kommar hit när dorren är öppet 
-och ställa upp din bärbar dator.
-När kurs börja, göra vi uppgifter i böckarna,
-tillsammans med dina bordkompissar.
+  * du kommar hit när dörren öppnas 
+  * du ställer upp din bärbara dator
+  * du gör uppgifter i böckerna
+  * du sammarbetar med dina bordskompisar
 
-I rast ha vi lemonad och göra vi någonting att koplar av lite.
+På rasten fikar vi och kopplar av lite.
 
-Efter rast förtsätter vi igen.
-
-I slutet städar vi upp.
+Efter rasten förtsätter vi igen och på slutet städar vi upp.
 
 ### Vad händer på en presentation?
 
-Det här är en speciell dag att som vi presentera våra mästerverkar.
-Det är alltid pa en-men-sista dag på säsongen.
+En presentation är ett speciellt tillfälle när vi presentera våra mästerverk.
+Det brukar bli nästa sista kurstillfället på säsongen.
 
-Du får bjuda in din helt familj och alla dina vänner 
-(för att corona det tillatet!).
+Du får bjuda in din familj och vänner om du vill. 
+(Förutsett att situationen med Covid-19 tillåter det.)
 
-Efter det finns det alltid en (anonym!) utvärdering
-från kursen. Vi vet, det är alltid tråkigaste från helt säsongen,
-men ockå jättaviktigt att förbättra kursen!
+Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men det är viktigt för oss för att kunna förbättra kursen!
 
 ![](pics/20190705_3.jpg)
 
-> Nederländska barn tar en presentation
+> Nederländska barn har en presentation
 
-### Vad händer på en händelse?
+### Vad händer på ett evenemang?
 
-När det är mogligt, åker vi till en händelse.
-Där undervisa vi andra tonårigen programmera. 
+Om det finns intresse och tillfälle ges kan vi delta på olika evenemang, t.ex. Birdie eller SciFest.
+Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera. 
 
 ![](pics/20180210OpenDagDjo_3.jpg)
 
-> Nederländska barn (i oranga T-skjörtor) undervisa andra barn på en händelse
+> Nederländska barn (i oranga T-skjörtor) undervisar andra barn på ett evenemang
 
-### Kan jag göra datorspelar?
+### Kan jag göra datorspel?
 
 Oh ja!
 
-Att göra en datorspelar är en av roligaste sätten att lära sig programmering.
+Att göra ett datorspel är ett av de roligaste sätten att lära sig programmering.
 
 ![](pics/nature_zen.png)
 
-> Nature Zen är en datorspel som är på Steam
+> Nature Zen är ett datorspel som är tillgänligt Steam
 
-### Kan jag spela?
+### Kan jag spela datorspel på kursen?
 
-Nej. 
-Dit är en kurs där lärande kommer först.
+Nej.
+
+I denna kurs kommer lärandet först.
 Spel bidrar inte till att lära sig programmera.
-Inte ens före kursen, inte ens under rast och inte efter slut.
-Har du *själv* programmerat ett spel,
-då får du visa din spelet och testa det.
+Vi vill inte att man spelar i Uppsala Makerspaces lokaler. Varken före, under rasten eller efter att kursen slutat.
+Men, om du *själv* har programmerat ett spel så får du naturligtvis visa upp spelet och låta andra testa det bara det inte tar över kursen.
 
-### Vem ställer jag en fråga?
+### Vem ska jag fråga om jag fastnar?
 
- * Sitter det en student bredvid dig? Om ja, då är han/hon.
- * Finns det en student vid ditt bord? Om ja, då är han/hon
- * Om ingen är där eller ingen vet, fråga en vuxen
+Det bästa sättet att lära sig är att få berätta för en kompis.
+
+ * Sitter det en deltagare bredvid dig? Om ja, fråga hen.
+ * Sitter det en deltagare vid ditt bord? Om ja, då är hen.
+ * Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
 
 ### Vad händer om en ny student kommer in?
 
@@ -195,128 +177,107 @@ då får du visa din spelet och testa det.
    * Namnlista
    * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
 
-### Jag kan inte kom på en dag!
+### Jag kan inte komma på ett kurstillfälle!
 
-Ingen problem! 
+Inget problem! 
 
-Det är trävligt när du schicka en emalj till Richel, 
-`richel@richelbilderbeek.nl`, 
-så hon vet du göra någonting
-cool andra!
+Men skicka gärna ett mail till Richel,`richel@richelbilderbeek.nl` och meddela detta.
 
-## Beteende för föräldrar
+## Förväntningar på föräldrar
 
-### Är jag vilkommen att stänna?
+### Är jag välkommen att stanna?
 
-Föräldrar är alltid vilkommen att kolla lite att våra jättebra kurs.
+Föräldrar är alltid välkommna att kolla lite vad som pågår på kursen.
 
-Oavsett, för din barn är det bättre det hon/han kann göra nya
-kompissar (och dina problemen med det!). 
-Därför frågor vi det du -när det är möjligt- åker tillbaka
-efter lämnar din(a) barn. Förutom det finns det mycket plats
-i vårs Makerspace var du kan göra dina egena saker.
+Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen och inte vänder sig till dig när det uppstår problem. 
+Därför undrar vi om du kan hålla dig på lite avstånd under kursens gång -när så är möjligt- kanske ta en promenad eller göra ett ärende. Uppsala Makerspace är också rätt stort så det går att vistas i ett annat rum och hålla på med egna projekt om du är labbmedlem.
 
-Ett tips: kommer 5 minuter före slutet för en kort titt :-)
+Ett tips: kom 5 minuter före slutet för en kort titt :-)
 
-### Är jag vilkommen att hjälpa?
+### Är jag välkommen att hjälpa till?
 
-Javisst! Du kann bli en frivilligare. 
-För din(a) barn versöker vi det du är i olika grup som din(a) barn.
+Javisst! Du kann bli en volontär. 
+Vi försöker då ordna så du är i en annan grupp än ditt/dina barn, se frågan ovan.
 
-### Min(a) barn kan inte kom på en dag!
+### Mitt/minaa barn kan inte kom på ett kurstillfälle!
 
-Ingen problem! 
+Inget problem! 
 
-Det är trävligt när du schicka en emalj till Richel, 
-`richel@richelbilderbeek.nl`, 
-så hon vet din(a) barn göra någonting
-cool andra!
 
-## Beteende för frivilligare
+Men skicka gärna ett mail till Richel,`richel@richelbilderbeek.nl` och meddela detta.
 
-### Är jag vilkommen?
+## Förväntningar på volontärer / frivilliga
+
+### Är jag välkommen?
 
 Javisst!
 
-Mål är att som mest det är en vuxen på fyra barn.
-Det är viktigt för att ha en barn-fulla atmosphär. 
+Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträckning som möjligt, så det ska helst inte vara fler än en vuxen per fyra barn.
 
 ## Lektioner och läromedel
 
 ### Var finns lektionerna?
 
-Behandlingslektioner finns på webbplatsen 
+Lektioner finns beskrivna på webbplatsen (översättning pågår). 
 [Processing för tonåringar] (https://github.com/richelbilderbeek/processing_foer_tonaaringar).
 
-## Jag vill göra Processing, är det möjligt?
+## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
 
-Jo det kan du! [Ladda ner Processing här](https://processing.org/download/).
+Kul, självklart kan du komma igång själv!
+[Ladda ner Processing här](https://processing.org/download/).
 
-Processing lektionerna finns på webbplatsen
-[Processing för tonåringar] (https://github.com/richelbilderbeek/processing_foer_tonaaringar).
+Processing lektionerna finns på webbplatsen [Processing för tonåringar] (https://github.com/richelbilderbeek/processing_foer_tonaaringar).
 
 ![](pics/processing3_logo_50.png)
 
-## Jag vill göra någon med händer, är det möjligt?
+## Jag vill skapa på fler sätt än med datorn, är det möjligt?
 
-Javiss, men inte här: dit är bara en programmeringskurs.
+Javisst, men detta är en programmeringskurs.
 
-Lyckligtvis, det finns också den Makerkids i Uppsala Makerspace!
-[Ser aktivitäter her](https://www.uppsalamakerspace.se/aktiviteter).
+Lyckligtvis, det finns det andra aktiviteter för Makerkids i Uppsala Makerspace, hör av dig till föreningen på kansliet@uppsalamakerspace.se eller prata med någon på våra öppna kvällar!
+Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
-## Pris
+## Kostnader för kursen
 
 ### Vad kostar kursen?
 
-[Dit är en förslag]
+[Detta är ett förslag]
 
- * 400 SEK för medlemma
- * 600 SEK för ej-medlemma
+ * 400 SEK för medlemmar
+ * 600 SEK för ej-medlemmar
 
-### Jag kan inte betalar kurs. Vad bör jag göra?
+### Jag har inte råd med kursavgiften. Hur ska jag göra?
 
-Vi tycker penger skulle bli inte en problem.
-Saga det till Richel och förmodligen vet han en lösning.
+Hör av dig till Richel, han har förmodligen en lösning.
 
 ### Varför kostar kursen så lite?
 
-För att vi arbetar med frivilligar.
-Alla kostnader är för böckerna och limonad.
+För att kursen bedrivs med frivilliga krafter och det finns ett intresse att sprida kunskap om programmering i samhället.
+Kostnaderna är i huvudsak för att trycka böckerna och lite fika.
 
-### Varför finss det två prisar?
+### Varför fins det två priser?
 
-Kursen har två prisar: en för Uppsala Makerspace medlemmar
-och en för ej-medlemmar.
+Kursen har två priser: en för Uppsala Makerspace medlemmar och en för ej-medlemmar.
 
-Det lägsta priset är för Uppsala Makerspace medlemmar, 
-som enkelt betalar böckerna och lemonad, för at
-Uppsala Makerspace medlemmar redan betala kosten från 
-använder Makerspacet.
+Det lägre av priserna är för Uppsala Makerspace medlemmar, de betalar bara för böcker och fika.
 
-Det högsta priset är för ej-medlemmar, för att 
-ej-medlemmar måsta också (samma som medlemmar) 
-betala kosten från
-använder Makerspacet.
+Det högre priset är för de som inte är medlemmar ännu, då de behöver bidra till kostnaden för lokalen.
 
 ### Varför kostar kursen samma mellan höst och vår?
 
-Enkelt för att det är lättare för administration.
-
-Fastän höst är kortare (och på grund av det är kursen dyrare),
-vi tycker det är bättre prisar är enkla.
+För att det är lättare administrera
 
 ### Hur är pris från kursen räknet?
 
-Här är hur pris från kursen är räknet, 
-med prisar från [pixelpalace.se](http://pixelpalace.se/).
-Också, prisa är räknet pessimistisk.
+Priserna för kursen är framräknade utifrån kostnader på [pixelpalace.se](http://pixelpalace.se/).
+Priserna är framräknade pessimistiskt.
 
-Kurs är 8 böcker i total, varje bok är max 30 doppel-sida (faltet) A4.
+En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
 
- * Färg: 1 bok är 175 SEK (när enkelt, 100 SEK pro 10)
- * Svart-vid: 1 bok är 100 SEK (när enkelt, 400 SEK pro 10)
+ * Färg: 1 bok 175 SEK (när enkelt, 100 SEK pro 10)
+ * Svartvit: 1 bok är 100 SEK (när enkelt, 400 SEK pro 10)
 
-2 certifikator:
+2 certifikat:
 
  * Färg: 1 certifikat är 54 SEK
 
@@ -324,7 +285,7 @@ Lektionskort:
 
  * Svart-vid: 1 kort är 43 SEK (när enkelt, 65 SEK pro 10, 90 SEK pro 20)
 
-Lemonad:
+Saft:
 
  * 40 SEK per flask för 10 elever
 
@@ -336,18 +297,18 @@ Per elev, 30 SEK:
  * limonade för barn och 1 gast, 10 SEK
  * Kakor, 4 personar, 10 SEK 
 
-Pro elev och semester:
+Per elev och termin:
 
  * 4x SV böcker = 400 SEK
- * 1x certificat = 54 SEK
+ * 1x certifikat = 54 SEK
  * 1x lektionskort = 43 SEK
- * 2x flask lemonad = 80 SEK
- * Presentation: 30 SEK
+ * 2x flaska saft = 80 SEK
+ * Presentation = 30 SEK
 
 Det betyder, 
-när det finns inga böcker, 
-kostnader är 610 SEK pro elev pro semester.
-Dit är en pessimistisk uppskattning.
+i början när det inte finns några böcker, 
+blir kostnaden 610 SEK per elev pro termin.
+Det är en pessimistisk uppskattning.
 
 ## Personen
 
@@ -359,15 +320,16 @@ Dit är en pessimistisk uppskattning.
 
 ![Richel](pics/richelbilderbeek.png)
 
-Richel är en vuxen volontär och samordnar kursen.
+Richel är en vuxen volontär som samordnar kursen.
 
 Richel har programmerat sedan han var 8 år.
-Han är den mest erfarna och vällästa programmeraren, särskilt inom C++.
+Han är en erfaren programmerare, särskilt inom C++.
 Richel är särskilt intresserad av utbildning och har
-avslutade lärarutbildningen vid universitetet och har två år som
+avslut lärarutbildningen vid universitetet och har två år som
 lärare på en Högstadiet.
 
 Hans arbete kan ses på 
 [hans webbplats med mer än 3900 sidor](http://richelbilderbeek.nl) 
 och [mer än 1200 GitHub-arkiv] (https://github.com/richelbilderbeek?tab=repositories).
 
+På dagtid jobbar Richel som forskare på Uppsala Universitet.
