@@ -1,6 +1,6 @@
 # Programmeringskurs för tonåringar
 
-![](20180210OpenDagDjo_3.jpg)
+![](../pics/uppsala_makerspace_50.png)![](../pics/processing3_logo_50.png)
 
 Att berätta för datorn vad den ska göra är kärnan inom programmering.
 Vill du också kunna göra det? Varje vecka kan du besöka oss
@@ -22,4 +22,6 @@ Ingen förkunskaper krävs.
    * Januari till maj: 400 SEK för Uppsala Makerspace medlemmar, 600 SEK för andra
  * Krav: en bärbar dator med WiFi
  * Mer information: https://github.com/richelbilderbeek/programmeringskurs_foer_tonaaringar
+
+![](../pics/20180210OpenDagDjo_3.jpg)
 
