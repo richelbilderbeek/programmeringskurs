@@ -35,7 +35,7 @@ När  |Vad
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per student:
    * September till december: 400 SEK för Uppsala Makerspace medlemmar, 600 SEK för andra
-   * Januari till maj: [samma] SEK för Uppsala Makerspace medlemmar
+   * Januari till maj: 400 SEK för Uppsala Makerspace medlemmar, 600 SEK för andra
  * Ålder: 8-18 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
