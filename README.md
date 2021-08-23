@@ -73,3 +73,23 @@ September|Kurs börjat
 December |Presentation och utvärdering
 Januari  |Kurs fortsätt
 
+## Impressum
+
+Bildar är från Richels sista kurs på [https://www.djog.nl/](De Jonge Onderzoekers):
+
+På en öppen dag undervisa våra elever (i oranga T-shirts) våra gästen:
+
+[Öppen Dag](pics/20180210OpenDagDjo_3.jpg)
+
+![Öppen Dag](20191005ZpannendZernike.jpg)
+
+På sluten av en termin hade vi en presentation: 
+
+[Presentation](pics/20190705_1.jpg)
+
+[Presentation](pics/20190705_3.jpg)
+
+
+
+
+
