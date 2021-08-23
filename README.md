@@ -81,7 +81,7 @@ På en öppen dag undervisa våra elever (i oranga T-shirts) våra gästen:
 
 ![Öppen Dag](pics/20180210OpenDagDjo_3.jpg)
 
-![Öppen Dag](20191005ZpannendZernike.jpg)
+![Öppen Dag](pics/20191005ZpannendZernike.jpg)
 
 På sluten av en termin hade vi en presentation: 
 
