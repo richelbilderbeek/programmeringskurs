@@ -34,17 +34,35 @@ När  |Vad
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per student:
-   * September till december: 400 SEK för Uppsala Makerspace medlemmar, 600 SEK för andra [Dit är en förslag]
-   * Januari till maj: [samma] SEK för Uppsala Makerspace medlemmar, [samma] SEK för andra
+   * September till december: 400 SEK för Uppsala Makerspace medlemmar, 600 SEK för andra
+   * Januari till maj: [samma] SEK för Uppsala Makerspace medlemmar
  * Ålder: 8-18 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
 Din första lektion kan vara varje dag. 
 Även utan förvarning.
-Om du vet när du kommer är det trevligt om du registrerar dig
-att [?].
+Om du vet när du kommer är det trevligt om du berätta Richel 
+det: richel@richelbilderbeek.nl
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
+
+## Betala
+
+Kursen kostar 400 SEK för Uppsala Makerspace medlemmar
+och 600 SEK för andra (antagligen ska det bli billigare nästa kurs!)
+
+Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
+Snälla, använder formatet här (`PC` betyder 'Programming Course'):
+
+```
+PC: [nam], [email]
+```
+
+till exempel:
+
+```
+PC: Sven Svensson, sven@svensson.se
+```
 
 ## Årschema
 
