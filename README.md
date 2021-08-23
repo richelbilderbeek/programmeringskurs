@@ -20,7 +20,8 @@ Se "Schema" nedan för mer information.
 
 ## Dagschema
 
- * Dag: Varje lordag, utom på röddagor, sommarlov och jullov
+ * Första kursdagen: 18:e September 2021
+ * Dag: Varje lordag, startar av , utom på röddagor, sommarlov och jullov
  * Ålder: 8-18 år [*](faq.md)
 
 När  |Vad
