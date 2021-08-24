@@ -35,8 +35,8 @@ När  |Vad
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per student:
-   * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr (400 kr + 200 kr) för andra 
-   * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr (400 kr + 200 kr) för andra
+   * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra 
+   * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
  * Ålder: 8-18 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
@@ -50,7 +50,7 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 ## Betala
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
-och 600 kr för andra (antagligen ska det bli billigare nästa kurs!)
+och 600 kr för andra (tips: medlamskap är 200 kr pro år!).
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
 Snälla, använd formatet här (`PC` betyder 'Programming Course'):
