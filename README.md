@@ -75,7 +75,7 @@ Januari  |Kurs fortsätt
 
 ## Impressum
 
-Bildar är från Richels sista kurs på [https://www.djog.nl/](De Jonge Onderzoekers):
+Bildar är från Richels sista kurs på [De Jonge Onderzoekers Groningen](https://www.djog.nl/):
 
 På en öppen dag undervisa våra elever (i oranga T-shirts) våra gästen:
 
