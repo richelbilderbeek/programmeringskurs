@@ -89,3 +89,10 @@ På sluten av en termin hade vi en presentation:
 
 ![Presentation](pics/20190705_3.jpg)
 
+> Alla bilder är användet med vänligt tillstånd av 'De Jonge Onderzoekers Groningen'
+
+## Länker
+
+ * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
+ * [Böckerna av kursen: 'Processing för tonåringar'](https://github.com/richelbilderbeek/processing_foer_tonaaringar)
+

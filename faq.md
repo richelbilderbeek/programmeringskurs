@@ -72,6 +72,17 @@ Det är faktiskt så att en mobil snarare stör din koncentration och kan hindra
 
 Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
+### Vilken böcker använder kursen?
+
+Vi använder böcker av [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_tonaaringar).
+
+### Få jag drycker böcker själv?
+
+Javisst! Bocker att [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_tonaaringar)
+ha en `CC-BY-NC` licens, 
+som innehål du får drycker böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
+Också, du får ädrar texten, så långe du skriver också original version (`BY` = 'give attribution').
+
 ## Processing
 
 ### Varför ska jag lära mig just Processing?
