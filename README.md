@@ -73,6 +73,28 @@ September|Kurs börjat
 December |Presentation och utvärdering
 Januari  |Kurs fortsätt
 
+## Veckaschema
+
+Vecka| Dag      |Vad
+-----|----------|----------------------------
+37   |2021-09-18|1. Kurs startet
+38   |2021-09-25|2.
+39   |2021-10-02|3.
+40   |2021-10-09|4.
+41   |2021-10-16|5.
+42   |2021-10-23|6.
+43   |2021-10-30|7.
+44   |2021-11-06|Ingen kurs: Alle helgons dag
+45   |2021-11-13|8.
+46   |2021-11-20|9.
+47   |2021-11-27|10.
+48   |2021-12-04|11.
+49   |2021-12-11|12. Presentation och utvärdering
+50   |2021-12-18|13. Sista dag
+51   |2021-12-25|Julsemester
+ 1   |2022-..-..|?Julsemester
+ 2   |2022-..-..|Kurs fortsaetter
+
 ## Impressum
 
 Bildar är från Richels sista kurs på [De Jonge Onderzoekers Groningen](https://www.djog.nl/):
