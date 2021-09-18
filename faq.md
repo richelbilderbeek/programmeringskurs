@@ -345,8 +345,9 @@ avslut lärarutbildningen vid universitetet och har två år som
 lärare på en Högstadiet.
 
 Hans arbete kan ses på 
-[hans webbplats med mer än 3900 sidor](http://richelbilderbeek.nl) 
-och [mer än 1200 GitHub-arkiv] (https://github.com/richelbilderbeek?tab=repositories).
+[hans webbplats med mer än 3900 sidor](http://richelbilderbeek.nl)
+och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=repositories).
+Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
 
-På dagtid jobbar Richel som forskare på Uppsala Universitet.
+På dagtid jobbar Richel som [forskare på Uppsala Universitet](https://katalog.uu.se/empinfo/?id=N21-617).
 
