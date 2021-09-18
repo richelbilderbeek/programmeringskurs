@@ -285,40 +285,40 @@ Priserna är framräknade pessimistiskt.
 
 En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
 
- * Färg: 1 bok 100 SEK
- * Svartvit: 1 bok är 20 SEK
+ * 1 bok 100 kr (färg, paa svartvit aar 1 bok 20 kr)
 
 2 certifikat:
 
- * Färg: 1 certifikat är 54 SEK
+ * 1 certifikat är 54 kr (färg)
 
 Lektionskort:
 
- * Färg: 1 kort är 10 SEK
+ * Färg: 1 kort är 10 kr
 
 Saft:
 
- * 40 SEK per flask för 10 elever
+ * 30 kr per flask för 10 elever
 
 Presentation:
 
-Per elev, 30 SEK:
- * Kaffe för 1 föräldrar, 5 SEK
- * te för 1 föräldrar, 5 SEK
- * limonade för barn och 1 gast, 10 SEK
- * Kakor, 4 personar, 10 SEK 
+Per elev, 30 kr:
+
+ * Kaffe för 1 föräldrar, 5 kr
+ * te för 1 föräldrar, 5 kr
+ * limonade för barn och 1 gast, 10 kr
+ * Kakor, 4 personar, 10 kr
 
 Per elev och termin:
 
- * 4x SV böcker = 400 SEK
- * 1x certifikat = 54 SEK
- * 1x lektionskort = 43 SEK
- * 2x flaska saft = 80 SEK
- * Presentation = 30 SEK
+ * 4x böcker = 400 kr
+ * 1x certifikat = 54 kr
+ * 1x lektionskort = 10 kr
+ * 2x flaska saft = 60 kr
+ * Presentation = 30 kr
 
 Det betyder, 
 i början när det inte finns några böcker, 
-blir kostnaden 610 SEK per elev pro termin.
+blir kostnaden 554 SEK per elev pro termin.
 Det är en pessimistisk uppskattning.
 
 ## Personen
