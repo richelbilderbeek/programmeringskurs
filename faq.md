@@ -325,7 +325,12 @@ Det är en pessimistisk uppskattning.
 
 ### Vem är volontärer?
 
+ * Jon
  * Richel
+
+### Vem är Jon?
+
+[Text for Jon here :-) ]
 
 ### Vem är [Richel](https://github.com/richelbilderbeek)?
 
@@ -344,3 +349,4 @@ Hans arbete kan ses på
 och [mer än 1200 GitHub-arkiv] (https://github.com/richelbilderbeek?tab=repositories).
 
 På dagtid jobbar Richel som forskare på Uppsala Universitet.
+
