@@ -280,13 +280,13 @@ För att det är lättare administrera
 
 ### Hur är pris från kursen räknet?
 
-Priserna för kursen är framräknade utifrån kostnader på [pixelpalace.se](http://pixelpalace.se/).
+Priserna för kursen är framräknade utifrån kostnader på [Copy-Systems (Nederlands)](https://www.copy-systems.nl/).
 Priserna är framräknade pessimistiskt.
 
 En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
 
- * Färg: 1 bok 175 SEK (när enkelt, 100 SEK pro 10)
- * Svartvit: 1 bok är 100 SEK (när enkelt, 400 SEK pro 10)
+ * Färg: 1 bok 100 SEK
+ * Svartvit: 1 bok är 20 SEK
 
 2 certifikat:
 
@@ -294,7 +294,7 @@ En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 si
 
 Lektionskort:
 
- * Svart-vid: 1 kort är 43 SEK (när enkelt, 65 SEK pro 10, 90 SEK pro 20)
+ * Färg: 1 kort är 10 SEK
 
 Saft:
 
