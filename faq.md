@@ -330,7 +330,7 @@ Det är en pessimistisk uppskattning.
 
 ### Vem är Jon?
 
-[Text for Jon here :-) ]
+Jon är volontär på kursen. Han har jobbat som bland annat programmerare under 20 års tid, mest med Javascript. På senare år har han även hållit kurser för ungdomar och lärare i bland annat [Scratch](https://scratch.mit.edu) och [Raspberry Pi](https://raspberrypi.org). På fritiden är han engagerad i bland annat [Uppsala Linux User Group](https://ulug.se), [Uppsala Makerspace](https://uppsalamakerspace.se) och [DFRI](https://dfri.se).
 
 ### Vem är [Richel](https://github.com/richelbilderbeek)?
 
