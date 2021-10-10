@@ -97,6 +97,16 @@ Vecka| Dag      |Vad
 
 ## Impressum
 
+På 9:e October sag kurs så ut:
+
+![Uppsala Makerspace](pics/2021109_1.jpg)
+
+![Uppsala Makerspace](pics/2021109_2.jpg)
+
+![Uppsala Makerspace](pics/2021109_3.jpg)
+
+### Äldra bildar
+
 Bildar är från Richels sista kurs på [De Jonge Onderzoekers Groningen](https://www.djog.nl/):
 
 På en öppen dag undervisa våra elever (i oranga T-shirts) våra gästen:
