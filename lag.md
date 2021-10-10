@@ -8,8 +8,8 @@ Vecka| Dag      |Lag
 38   |2021-09-25|Christoffer, Richel
 39   |2021-10-02|Richel
 40   |2021-10-09|Christoffer, Richel
-41   |2021-10-16|Jon (accepted incorrectly, as Jon cannot be there, try Janne again), Richel
-42   |2021-10-23|Janne (accepted incorrectly, as Jon can be there), Richel
+41   |2021-10-16|Janne, Richel
+42   |2021-10-23|Jon, Richel
 43   |2021-10-30|Christoffer, Richel
 44   |2021-11-06|Ingen kurs: Alle helgons dag
 45   |2021-11-13|Janne, Richel
