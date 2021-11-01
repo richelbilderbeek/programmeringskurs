@@ -1,4 +1,4 @@
-# Programmeringskurs för tonåringar
+# Programmeringskurs för ungdomar
 
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
@@ -125,4 +125,4 @@ På slutet av en termin hade vi en presentation:
 ## Länkar
 
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
- * [Kursbok: 'Processing för tonåringar'](https://github.com/richelbilderbeek/processing_foer_tonaaringar)
+ * [Kursbok: 'Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar)

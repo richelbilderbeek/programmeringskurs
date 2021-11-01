@@ -1,4 +1,4 @@
-# Programmeringskurs för tonåringar
+# Programmeringskurs för ungdomar
 
 ![](../pics/uppsala_makerspace_50.png)![](../pics/processing3_logo_50.png)
 
@@ -22,7 +22,7 @@ Ingen förkunskaper krävs.
    * September till december: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
    * Januari till maj: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
  * Krav: en bärbar dator med WiFi
- * Mer information: https://github.com/richelbilderbeek/programmeringskurs_foer_tonaaringar
+ * Mer information: https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar
 
 ![](../pics/20180210OpenDagDjo_3.jpg)
 

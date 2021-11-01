@@ -74,11 +74,11 @@ Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
 ### Vilken böcker använder kursen?
 
-Vi använder böcker av [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_tonaaringar).
+Vi använder böcker av [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_ungdomar).
 
 ### Få jag drycker böcker själv?
 
-Javisst! Bocker att [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_tonaaringar)
+Javisst! Bocker att [Processing för toårigen](https://github.com/richelbilderbeek/processing_foer_ungdomar)
 ha en `CC-BY-NC` licens, 
 som innehål du får drycker böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
 Också, du får ädrar texten, så långe du skriver också original version (`BY` = 'give attribution').
@@ -230,14 +230,14 @@ Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträcknin
 ### Var finns lektionerna?
 
 Lektioner finns beskrivna på webbplatsen (översättning pågår). 
-[Processing för tonåringar] (https://github.com/richelbilderbeek/processing_foer_tonaaringar).
+[Processing för ungdomar] (https://github.com/richelbilderbeek/processing_foer_ungdomar).
 
 ## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
 
 Kul, självklart kan du komma igång själv!
 [Ladda ner Processing här](https://processing.org/download/).
 
-Processing lektionerna finns på webbplatsen [Processing för tonåringar] (https://github.com/richelbilderbeek/processing_foer_tonaaringar).
+Processing lektionerna finns på webbplatsen [Processing för ungdomar] (https://github.com/richelbilderbeek/processing_foer_ungdomar).
 
 ![](pics/processing3_logo_50.png)
 
