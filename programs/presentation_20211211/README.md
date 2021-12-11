@@ -1,5 +1,9 @@
 # Presentation 2021-12-11
 
-   * Hund, Anton
-   * Bertil Game, Max
-   * Gustav
+  * [ ] Hund, Anton
+  * [ ] Gustav
+
+## Sjuk
+
+  * Bertil Game, Max 
+
