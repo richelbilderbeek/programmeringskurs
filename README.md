@@ -108,7 +108,7 @@ Vecka| Dag      |Vad
 22   |2022-06-04|22.
 23   |2022-06-11|23.
 24   |2022-06-18|24. ?Öva presentation
-25   |2022-06-25|25. Öva presentation
+25   |2022-06-25|25. Öva presentation eller Midsommarsdagen?
 26   |2022-07-02|26. Slutpresentation
 27   |2022-07-09|27. Sista lektion
 28   |2022-07-11|Början sommarlov [1]

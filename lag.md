@@ -2,6 +2,44 @@
 
 Lag av frivilligare och när dem hjälpa
 
+## 2022 season 1
+
+Vecka|Dag       |Lag
+-----|----------|-------------------------------------
+1    |2022-01-08|1. Christoffer, Richel
+2    |2022-01-15|2. Janne, Richel
+3    |2022-01-22|3. Jon, Richel
+4    |2022-01-29|4. Christoffer, Richel
+5    |2022-02-05|5. Janne, Richel
+6    |2022-02-12|6. Jon, Richel
+7    |2022-02-19|7. Christoffer, Richel
+.    |2022-02-21|Borjan sportlov [1]
+.    |2022-02-25|Slut sportlov [1]
+8    |2022-02-26|8. Janne, Richel
+9    |2022-03-05|9. Jon, Richel
+10   |2022-03-12|10. Christoffer, Richel
+11   |2022-03-19|11. Janne, Richel
+12   |2022-03-26|12. Jon, Richel
+13   |2022-04-02|13. Christoffer, Richel
+14   |2022-04-09|14. Janne, Richel
+14   |2022-04-11|Början Påsklov [2]
+14   |2022-04-14|Slut Påsklov [2]
+15   |2022-04-16|15. Jon, Richel
+16   |2022-04-23|16. Christoffer, Richel
+17   |2022-04-30|17. Janne, Richel
+18   |2022-05-07|18. Jon, Richel
+19   |2022-05-14|19. Christoffer, Richel
+20   |2022-05-21|20. Janne, Richel
+21   |2022-05-28|21. Jon, Richel
+22   |2022-06-04|22. Christoffer, Richel
+23   |2022-06-11|23. Janne, Richel
+24   |2022-06-18|24. Jon, Richel
+25   |2022-06-25|25. Midsommarsdagen? eller Christoffer, Richel
+26   |2022-07-02|26. Christoffer, Janne, Jon, Richel
+27   |2022-07-09|27. Jon, Richel
+
+## 2021 season 2
+
 Vecka| Dag      |Lag
 -----|----------|----------------------------
 37   |2021-09-18|Jon, Richel
