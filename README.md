@@ -20,7 +20,7 @@ Se "Schema" nedan för mer information.
 
 ## Dagschema
 
- * Första kursdagen: 18:e September 2021
+ * Första kursdagen: 8:e Januari 2022 (men du är alltid välkommen!)
  * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
  * Ålder: 8-18 år [*](faq.md)
 
@@ -66,33 +66,61 @@ PC: Sven Svensson, sven@svensson.se
 
 ## Årschema
 
+Den här schemat är en generellt ide. Ser veckoschema för detaljerna.
+
 När      |Vad
 ---------|----------------------------
-September|Kursen börjar
+Januari  |Kursen 1:e semester
+Juli     |Presentation och utvärdering 
+Augusti  |Sommarlov
+September|Kursen 2:e semester
 December |Presentation och utvärdering
-Januari  |Kursen fortsätter
 
 ## Veckoschema
 
 Vecka| Dag      |Vad
------|----------|----------------------------
-37   |2021-09-18|1. Kursen startar
-38   |2021-09-25|2.
-39   |2021-10-02|3.
-40   |2021-10-09|4. Fotosession + galenlektion
-41   |2021-10-16|5.
-42   |2021-10-23|6.
-43   |2021-10-30|7.
-44   |2021-11-06|Ingen kurs: Alla helgons dag
-45   |2021-11-13|8. Galenlektion
-46   |2021-11-20|9.
-47   |2021-11-27|10.
-48   |2021-12-04|11.
-49   |2021-12-11|12. Presentation och utvärdering
-50   |2021-12-18|13. Sista dagen
-51   |2021-12-25|Jullov
- 1   |2022-..-..|?Jullov
- 2   |2022-..-..|Kursen fortsätter
+-----|----------|-------------------------------------
+1    |2022-01-08|1. 2:e säsong, kursen förtsätter igen
+2    |2022-01-15|2.
+3    |2022-01-22|3.
+4    |2022-01-29|4.
+5    |2022-02-05|5.
+6    |2022-02-12|6.
+7    |2022-02-19|7.
+.    |2022-02-21|Borjan sportlov [1]
+.    |2022-02-25|Slut sportlov [1]
+8    |2022-02-26|8.
+9    |2022-03-05|9.
+10   |2022-03-12|10.
+11   |2022-03-19|11.
+12   |2022-03-26|12.
+13   |2022-04-02|13.
+14   |2022-04-09|14.
+14   |2022-04-11|Början Påsklov [2]
+14   |2022-04-14|Slut Påsklov [2]
+15   |2022-04-16|15.
+16   |2022-04-23|16.
+17   |2022-04-30|17.
+18   |2022-05-07|18.
+19   |2022-05-14|19.
+20   |2022-05-21|20. Förberada presentation
+21   |2022-05-28|21.
+22   |2022-06-04|22.
+23   |2022-06-11|23.
+24   |2022-06-18|24. ?Öva presentation
+25   |2022-06-25|25. Öva presentation
+26   |2022-07-02|26. Slutpresentation
+27   |2022-07-09|27. Sista lektion
+28   |2022-07-11|Början sommarlov [1]
+29   |.         |Sommarlov [1]
+30   |.         |Sommarlov [1]
+31   |.         |Sommarlov [1]
+32   |.         |Sommarlov [1]
+33   |2022-08-17|Slut Sommarlov [1]
+33   |2022-08-20|3:e säsong, kursen förtsätter igen
+
+ * [1] https://skollov-se.se/skollov-2022/
+ * [2] https://skollov-se.se/p%C3%A5sklov-2022/
 
 ## Impressum
 
