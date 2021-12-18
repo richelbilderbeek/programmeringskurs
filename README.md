@@ -104,6 +104,16 @@ Den 9:e Oktober såg kurs så ut:
 
 ![Uppsala Makerspace](pics/2021109_3.jpg)
 
+Rast:
+
+![Uppsala Makerspace](pics/20211009/IMG_20211009_111252.jpg)
+![Uppsala Makerspace](pics/20211009/IMG_20211009_111254.jpg)
+![Uppsala Makerspace](pics/20211009/IMG_20211009_111257.jpg)
+
+Galenlektion:
+
+![Uppsala Makerspace](pics/20211009/IMG_20211009_111800.jpg)
+
 ### Äldre bilder
 
 Bilderna är från Richels sista kurs på [De Jonge Onderzoekers Groningen](https://www.djog.nl/):
