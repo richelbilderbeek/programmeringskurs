@@ -99,24 +99,14 @@ Vecka| Dag      |Vad
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsk, 
-16   |2022-04-23|15.
+16   |2022-04-23|15. Förberada presentation
 17   |2022-04-30|Ej kurs, Valborg
 18   |2022-05-07|16.
 19   |2022-05-14|17.
-20   |2022-05-21|18. Förberada presentation
-21   |2022-05-28|19.
-22   |2022-06-04|20.
-23   |2022-06-11|21.
-24   |2022-06-18|22. ?Öva presentation
-25   |2022-06-25|23. Öva presentation eller Midsommarsdagen?
-26   |2022-07-02|24. Slutpresentation
-27   |2022-07-09|25. Sista lektion
-28   |2022-07-11|Början sommarlov [1]
-29   |.         |Sommarlov [1]
-30   |.         |Sommarlov [1]
-31   |.         |Sommarlov [1]
-32   |.         |Sommarlov [1]
-33   |2022-08-17|Slut Sommarlov [1]
+20   |2022-05-21|18. Öva presentation
+21   |2022-05-28|19. Slutpresentation
+22   |2022-06-04|20. Sista lektion
+.    |.         |Ej kurs, sommarlov
 33   |2022-08-20|3:e säsong, kursen förtsätter igen
 
  * [1] https://skollov-se.se/skollov-2022/
