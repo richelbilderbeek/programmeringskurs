@@ -24,19 +24,19 @@ Vecka|Dag       |Lag
 14   |2022-04-09|14. Janne, Richel
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
-15   |2022-04-16|15. Jon, Richel
-16   |2022-04-23|16. Christoffer, Richel
-17   |2022-04-30|17. Janne, Richel
-18   |2022-05-07|18. Jon, Richel
-19   |2022-05-14|19. Christoffer, Richel
-20   |2022-05-21|20. Janne, Richel
-21   |2022-05-28|21. Jon, Richel
-22   |2022-06-04|22. Christoffer, Richel
-23   |2022-06-11|23. Janne, Richel
-24   |2022-06-18|24. Jon, Richel
-25   |2022-06-25|25. Midsommarsdagen? eller Christoffer, Richel
-26   |2022-07-02|26. Christoffer, Janne, Jon, Richel
-27   |2022-07-09|27. Jon, Richel
+15   |2022-04-16|Ej kurs, vegen Påsklov
+16   |2022-04-23|15. Christoffer, Richel
+17   |2022-04-30|Ej kurs, vegen Valborg
+18   |2022-05-07|16. Jon, Richel
+19   |2022-05-14|17. Christoffer, Richel
+20   |2022-05-21|18. Janne, Richel
+21   |2022-05-28|19. Jon, Richel
+22   |2022-06-04|20. Christoffer, Richel
+23   |2022-06-11|21. Janne, Richel
+24   |2022-06-18|22. Jon, Richel
+25   |2022-06-25|23. Midsommarsdagen? eller Christoffer, Richel
+26   |2022-07-02|24. Christoffer, Janne, Jon, Richel
+27   |2022-07-09|25. Jon, Richel
 
 ## 2021 season 2
 
