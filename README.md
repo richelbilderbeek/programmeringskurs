@@ -92,7 +92,7 @@ Vecka| Dag      |Vad
 8    |2022-02-26|8.
 9    |2022-03-05|9.
 10   |2022-03-12|10.
-.    |2022-03-14|[Pi Dag](https://github.com/richelbilderbeek/Pi_Day)
+.    |2022-03-14|?[Pi Dag](https://github.com/richelbilderbeek/Pi_Day)
 11   |2022-03-19|11.
 12   |2022-03-26|12.
 13   |2022-04-02|13.
@@ -105,6 +105,7 @@ Vecka| Dag      |Vad
 18   |2022-05-07|16.
 19   |2022-05-14|17.
 20   |2022-05-21|18. Öva presentation
+20   |2022-05-22|?Hackathon
 21   |2022-05-28|19. Slutpresentation
 22   |2022-06-04|20. Sista lektion
 .    |.         |Ej kurs, sommarlov
