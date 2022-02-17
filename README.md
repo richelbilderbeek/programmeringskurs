@@ -107,12 +107,14 @@ Vecka| Dag      |Vad
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|Hackathon 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
+     |2022-05-29|Morsdag
 22   |2022-06-04|20. Sista lektion
 .    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
 33   |2022-08-20|3:e säsong, kursen förtsätter igen
 
  * [1] https://skollov-se.se/skollov-2022/
  * [2] https://skollov-se.se/p%C3%A5sklov-2022/
+ * [Farsdag: andra Söndag i November](https://en.wikipedia.org/wiki/Father%27s_Day#Sweden) 
 
 ## Impressum
 
