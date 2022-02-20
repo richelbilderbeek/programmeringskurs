@@ -108,7 +108,7 @@ Vecka| Dag      |Vad
 20   |2022-05-22|Hackathon 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
      |2022-05-29|Morsdag
-22   |2022-06-04|20. Sista lektion
+22   |2022-06-04|20. Sista lektion: eftermorsdag
 .    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
 33   |2022-08-20|3:e säsong, kursen förtsätter igen
 

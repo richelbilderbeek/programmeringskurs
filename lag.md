@@ -11,17 +11,17 @@ Vecka|Dag       |Lag
 3    |2022-01-22|3. Christoffer, Richel
 4    |2022-01-29|4. Janne, Richel
 5    |2022-02-05|5. Christoffer, Richel
-6    |2022-02-12|6. Janne, Richel
-7    |2022-02-19|7. Christoffer, Richel
+6    |2022-02-12|6. ~~Janne~~ Christoffer, Richel
+7    |2022-02-19|7. ~~Christoffer~~ Janne, Richel
 .    |2022-02-21|Borjan sportlov [1]
 .    |2022-02-25|Slut sportlov [1]
-8    |2022-02-26|8. Janne, Richel
-9    |2022-03-05|9. Christoffer, Richel
-10   |2022-03-12|10. Janne, Richel
-11   |2022-03-19|11. Christoffer, Richel
-12   |2022-03-26|12. Janne, Richel
-13   |2022-04-02|13. Christoffer, Richel
-14   |2022-04-09|14. Janne, Richel
+8    |2022-02-26|8. Christoffer, Richel
+9    |2022-03-05|9. Janne, Richel
+10   |2022-03-12|10. Christoffer, Richel
+11   |2022-03-19|11. Janne, Richel
+12   |2022-03-26|12. Christoffer, Richel
+13   |2022-04-02|13. Janne, Richel
+14   |2022-04-09|14.  Christoffer, Richel
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsklov
@@ -31,7 +31,7 @@ Vecka|Dag       |Lag
 19   |2022-05-14|17. Christoffer, Richel
 20   |2022-05-21|18. Janne, Richel
 21   |2022-05-28|19. Presentation: Christoffer, Janne, Richel
-22   |2022-06-04|20. Janne, Richel
+22   |2022-06-04|20. Eftermorsdag, Christoffer, Richel
 
 ## 2021 season 2
 
