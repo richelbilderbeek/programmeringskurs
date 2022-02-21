@@ -169,3 +169,5 @@ På slutet av en termin hade vi en presentation:
 
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [Kursbok: 'Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar)
+ * [codeberg.org hemsida](https://codeberg.org/uppsala_makerspace/programmeringskurs_foer_ungdomar)
+
