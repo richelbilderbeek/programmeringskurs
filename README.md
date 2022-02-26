@@ -118,12 +118,23 @@ Vecka| Dag      |Vad
 
 ## Impressum
 
+### 26:e Februar 2022
+
+Vi hade haft våra första två diplomanter! Grattis killar!
+
+![](diplomanter_20220226.jpg)
+
+![](diplomant_1_20220226.jpg)
+
+![](diplomant_2_20220226.jpg)
+
 ### Julkort 2021
 
  * [Kolla på YouTube](https://youtu.be/YIf3dGh4ikY)
  * [Ladda ner videon (.mp4)](programs/julkort_20211218/julkort_20211218.mp4)
 
 ![](programs/julkort_20211218/julkort_20211218.png)
+
 
 ### 9:e Oktober 2021
 
