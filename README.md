@@ -122,11 +122,11 @@ Vecka| Dag      |Vad
 
 Vi hade haft våra första två diplomanter! Grattis killar!
 
-![](diplomanter_20220226.jpg)
+![](pics/diplomanter_20220226.jpg)
 
-![](diplomant_1_20220226.jpg)
+![](pics/diplomant_1_20220226.jpg)
 
-![](diplomant_2_20220226.jpg)
+![](pics/diplomant_2_20220226.jpg)
 
 ### Julkort 2021
 
