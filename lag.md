@@ -6,30 +6,30 @@ Lag av frivilligare och när dem hjälpa
 
 Vecka|Dag       |Lag
 -----|----------|-------------------------------------
-1    |2022-01-08|1. Christoffer, Richel
-2    |2022-01-15|2. Janne, Richel
-3    |2022-01-22|3. Christoffer, Richel
-4    |2022-01-29|4. Janne, Richel
-5    |2022-02-05|5. Christoffer, Richel
-6    |2022-02-12|6. ~~Janne~~ Christoffer, Richel
-7    |2022-02-19|7. ~~Christoffer~~ Janne, Richel
+1    |2022-01-08|1. Christoffer 1, Richel
+2    |2022-01-15|2. Janne 1, Richel
+3    |2022-01-22|3. Christoffer 2, Richel
+4    |2022-01-29|4. Janne 2, Richel
+5    |2022-02-05|5. Christoffer 3, Richel
+6    |2022-02-12|6. ~~Janne~~ Christoffer 4, Richel
+7    |2022-02-19|7. ~~Christoffer~~ Janne 3, Richel
 .    |2022-02-21|Borjan sportlov [1]
 .    |2022-02-25|Slut sportlov [1]
-8    |2022-02-26|8. Christoffer, Richel
-9    |2022-03-05|9. Janne, Richel
-10   |2022-03-12|10. Christoffer, Richel
-11   |2022-03-19|11. Janne, Richel
-12   |2022-03-26|12. Christoffer, Richel
-13   |2022-04-02|13. Janne, Richel
-14   |2022-04-09|14.  Christoffer, Richel
+8    |2022-02-26|8. Christoffer 5, Richel
+9    |2022-03-05|9. ~~Janne~~ Christoffer 6, Richel
+10   |2022-03-12|10. ~~Christoffer~~ Janne 4, Richel
+11   |2022-03-19|11. Janne 5, Richel
+12   |2022-03-26|12. Christoffer 7, Richel
+13   |2022-04-02|13. Janne 6, Richel
+14   |2022-04-09|14.  Christoffer 8, Richel
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsklov
-16   |2022-04-23|15. Christoffer, Richel
+16   |2022-04-23|15. Christoffer 9, Richel
 17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. Janne, Richel
-19   |2022-05-14|17. Christoffer, Richel
-20   |2022-05-21|18. Janne, Richel
+18   |2022-05-07|16. Janne 7, Richel
+19   |2022-05-14|17. Christoffer 10, Richel
+20   |2022-05-21|18. Janne 8, Richel
 21   |2022-05-28|19. Presentation: Christoffer, Janne, Richel
 22   |2022-06-04|20. Eftermorsdag, Christoffer, Richel
 
