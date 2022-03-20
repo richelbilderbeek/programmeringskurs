@@ -92,7 +92,7 @@ Vecka| Dag      |Vad
 8    |2022-02-26|8.
 9    |2022-03-05|9.
 10   |2022-03-12|10.
-.    |2022-03-14|[Pi Dag](https://github.com/richelbilderbeek/Pi_Day)
+.    |2022-03-14|[Pi Dag](https://github.com/richelbilderbeek/pi_day)
 11   |2022-03-19|11.
 12   |2022-03-26|12.
 13   |2022-04-02|13.
@@ -107,14 +107,13 @@ Vecka| Dag      |Vad
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|Hackathon 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
-     |2022-05-29|Morsdag
+.    |2022-05-29|Morsdag (också farmor, mormor, usw)
 22   |2022-06-04|20. Sista lektion: eftermorsdag
 .    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
+.    |2022-07-22|[Pi Annäherings Dag](https://github.com/richelbilderbeek/pi_approximation_day)
 33   |2022-08-20|3:e säsong, kursen förtsätter igen
-
- * [1] https://skollov-se.se/skollov-2022/
- * [2] https://skollov-se.se/p%C3%A5sklov-2022/
- * [Farsdag: andra Söndag i November](https://en.wikipedia.org/wiki/Father%27s_Day#Sweden) 
+.    |2022-09-10|Kultunatten: vi ska undervisa!
+.    |2022-11-19|Farsdag (också farfar, morfar, usw)
 
 ## Impressum
 
