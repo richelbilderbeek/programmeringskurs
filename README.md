@@ -10,7 +10,7 @@ Först arbetar du dig igenom våra häften för att lära dig grunderna.
 Efter ditt första diplom får du joina ett programmeringslag.
 Och efter det, kanske du kommer att leda ditt eget lag!
 
-Ingen förkunskaper krävs.
+Inga förkunskaper krävs.
 
 Det viktigaste i kursen är att lära sig programmera tillsammans.
 Du börjar alltid med programmeringsspråket Processing.
@@ -100,10 +100,10 @@ Vecka| Dag      |Vad
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsk, 
-16   |2022-04-23|15. Förberada presentation
+16   |2022-04-23|15. Förberada tävling eller presentation
 17   |2022-04-30|Ej kurs, Valborg
 18   |2022-05-07|16. Kanske ingen kurs, vegen [galen programmeringstävling Stadsbibliotheket](https://github.com/richelbilderbeek/galen_programmeringstavling_stadsbibliotek_uppsala_2022)
-19   |2022-05-14|17.
+19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|Hackathon 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
