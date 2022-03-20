@@ -102,7 +102,7 @@ Vecka| Dag      |Vad
 15   |2022-04-16|Ej kurs, Påsk, 
 16   |2022-04-23|15. Förberada presentation
 17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. Kanske ingen kurs, vegen [hackathon Stadsbibliotheket](https://github.com/richelbilderbeek/hackathon_stadsbibliotek_uppsala_2022)
+18   |2022-05-07|16. Kanske ingen kurs, vegen [galen programmeringstävling Stadsbibliotheket](https://github.com/richelbilderbeek/galen_programmeringstavling_stadsbibliotek_uppsala_2022)
 19   |2022-05-14|17.
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|Hackathon 12:00-18:00
