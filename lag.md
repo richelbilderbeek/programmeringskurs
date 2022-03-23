@@ -19,8 +19,8 @@ Vecka|Dag       |Lag
 9    |2022-03-05|9. ~~Janne~~ Christoffer 6, Richel
 10   |2022-03-12|10. ~~Christoffer~~ Janne 4, Richel
 11   |2022-03-19|11. Christoffer 7, Richel
-12   |2022-03-26|12. ?Janne 5, Richel
-13   |2022-04-02|13. ?Christoffer 6, Richel
+12   |2022-03-26|12. ~~Christoffer~~ ~~Janne~~, Richel
+13   |2022-04-02|13. ?Janne, Richel
 14   |2022-04-09|14. ?, Richel
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
