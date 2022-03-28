@@ -1,4 +1,11 @@
-# Vanliga frågor
+# FAQ
+
+ * 🇸🇪 Vanliga frågor
+ * 🇬🇧 Frequently asked questions: see below the Swedish ones
+ * 🇺🇦 Часті запитання: див. англійську чи шведську
+
+
+## 🇸🇪 Vanliga frågor
 
 Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
 
@@ -350,4 +357,10 @@ och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=reposito
 Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
 
 På dagtid jobbar Richel som [forskare på Uppsala Universitet](https://katalog.uu.se/empinfo/?id=N21-617).
+
+## 🇬🇧🇺🇦 Frequently asked questions
+
+In short: you are always welcome, just show up between 10:00-12:00. 
+There is coffee and tea for parents and laptops and programming exercise
+for the kids :-)
 

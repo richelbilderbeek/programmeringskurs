@@ -2,8 +2,8 @@
 
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
-> If you are from Ukraine, you are welcome! 
-> Якщо ви з України, ласкаво просимо
+> If you are from Ukraine, you are welcome! See [FAQ](faq.md)
+> Якщо ви з України, ласкаво просимо. [Перегляньте поширені запитання](faq.md)
 
 Att berätta för datorn vad den ska göra är kärnan inom programmering.
 Vill du också kunna göra det? Varje vecka kan du besöka oss
