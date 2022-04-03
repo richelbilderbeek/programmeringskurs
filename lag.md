@@ -19,16 +19,16 @@ Vecka|Dag       |Lag
 9    |2022-03-05|9. ~~Janne~~ Christoffer 6, Richel
 10   |2022-03-12|10. ~~Christoffer~~ Janne 4, Richel
 11   |2022-03-19|11. Christoffer 7, Richel
-12   |2022-03-26|12. ?Janne 5, Richel
-13   |2022-04-02|13. ?Christoffer 6, Richel
-14   |2022-04-09|14. ?, Richel
+12   |2022-03-26|12. ~~Janne~~, Richel
+13   |2022-04-02|13. Janne 5, Richel
+14   |2022-04-09|14. Janne ?, Richel
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsklov
 16   |2022-04-23|15. ?, Richel
 17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. ?, Richel
-19   |2022-05-14|17. ?, Richel
+18   |2022-05-07|16. Janne ?, Richel
+19   |2022-05-14|17. Janne ?, Richel
 20   |2022-05-21|18. ?, Richel
 21   |2022-05-28|19. Presentation: Christoffer, Janne, Richel
 22   |2022-06-04|20. Eftermorsdag, Christoffer, Richel
