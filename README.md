@@ -83,29 +83,13 @@ December |Presentation och utvärdering
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-1    |2022-01-08|1. 2:e säsong, kursen förtsätter igen
-2    |2022-01-15|2.
-3    |2022-01-22|3.
-4    |2022-01-29|4.
-5    |2022-02-05|5.
-6    |2022-02-12|6.
-7    |2022-02-19|7.
-.    |2022-02-21|Borjan sportlov [1]
-.    |2022-02-25|Slut sportlov [1]
-8    |2022-02-26|8.
-9    |2022-03-05|9.
-10   |2022-03-12|10.
-.    |2022-03-14|[Pi Dag](https://github.com/richelbilderbeek/pi_day)
-11   |2022-03-19|11.
-12   |2022-03-26|12.
-13   |2022-04-02|13.
-14   |2022-04-09|14.
-14   |2022-04-11|Början Påsklov [2]
-14   |2022-04-14|Slut Påsklov [2]
+14   |2022-04-09|14. `git` och Codeberg
+.    |2022-04-11|Början Påsklov [2]
+.    |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsk, 
-16   |2022-04-23|15. Förberada tävling eller presentation
+16   |2022-04-23|15. `git` och Codeberg
 17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. Kanske ingen kurs, vegen [galen programmeringstävling Stadsbibliotheket](https://github.com/richelbilderbeek/galen_programmeringstavling_stadsbibliotek_uppsala_2022)
+18   |2022-05-07|16. [programmeringsdag hos Stadsbibliotheket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
 19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|Hackathon 12:00-18:00
@@ -115,7 +99,7 @@ Vecka| Dag      |Vad
 .    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
 .    |2022-07-22|[Pi Annäherings Dag](https://github.com/richelbilderbeek/pi_approximation_day)
 33   |2022-08-20|3:e säsong, kursen förtsätter igen
-.    |2022-09-10|Kultunatten: vi ska undervisa!
+.    |2022-09-10|Kulturnatten: vi ska undervisa!
 .    |2022-11-19|Farsdag (också farfar, morfar, usw)
 
 ## Impressum

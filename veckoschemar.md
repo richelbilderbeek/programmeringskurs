@@ -2,6 +2,27 @@
 
 Den här är gammla veckoschemar.
 
+## Veckoschema 2022 semester 1
+
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+1    |2022-01-08|1. 2:e säsong, kursen förtsätter igen
+2    |2022-01-15|2.
+3    |2022-01-22|3.
+4    |2022-01-29|4.
+5    |2022-02-05|5.
+6    |2022-02-12|6.
+7    |2022-02-19|7.
+.    |2022-02-21|Borjan sportlov [1]
+.    |2022-02-25|Slut sportlov [1]
+8    |2022-02-26|8.
+9    |2022-03-05|9.
+10   |2022-03-12|10.
+.    |2022-03-14|[Pi Dag](https://github.com/richelbilderbeek/pi_day)
+11   |2022-03-19|11.
+12   |2022-03-26|12.
+13   |2022-04-02|13.
+
 ## Veckoschema 2021 semester 2
 
 Vecka| Dag      |Vad
