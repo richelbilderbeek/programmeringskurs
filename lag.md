@@ -10,9 +10,9 @@ Vecka|Dag       |Lag
 14   |2022-04-11|Början Påsklov [2]
 14   |2022-04-14|Slut Påsklov [2]
 15   |2022-04-16|Ej kurs, Påsklov
-16   |2022-04-23|15. ?, Richel
+16   |2022-04-23|15. Christoffer, Richel
 17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. Janne, Richel
+18   |2022-05-07|16. Programmerinsdag: ?Christoffer, Janne, Richel
 19   |2022-05-14|17. Janne, Richel
 20   |2022-05-21|18. ?, Richel
 21   |2022-05-28|19. Presentation: Christoffer, Janne, Richel
