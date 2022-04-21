@@ -14,7 +14,7 @@ Vecka|Dag       |Lag
 17   |2022-04-30|Ej kurs, Valborg
 18   |2022-05-07|16. Programmerinsdag: ?Christoffer, Janne, Richel
 19   |2022-05-14|17. Janne, Richel
-20   |2022-05-21|18. ?, Richel
+20   |2022-05-21|18. ?Christoffer, Richel
 21   |2022-05-28|19. Presentation: Christoffer, Janne, Richel
 22   |2022-06-04|20. Eftermorsdag, Christoffer, Richel
 
