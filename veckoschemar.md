@@ -22,6 +22,12 @@ Vecka| Dag      |Vad
 11   |2022-03-19|11.
 12   |2022-03-26|12.
 13   |2022-04-02|13.
+14   |2022-04-09|14. `git` och Codeberg
+.    |2022-04-11|Början Påsklov [2]
+.    |2022-04-14|Slut Påsklov [2]
+15   |2022-04-16|Ej kurs, Påsk, 
+16   |2022-04-23|15. `git` och Codeberg
+17   |2022-04-30|Ej kurs, Valborg
 
 ## Veckoschema 2021 semester 2
 

@@ -83,13 +83,7 @@ December |Presentation och utvärdering
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-14   |2022-04-09|14. `git` och Codeberg
-.    |2022-04-11|Början Påsklov [2]
-.    |2022-04-14|Slut Påsklov [2]
-15   |2022-04-16|Ej kurs, Påsk, 
-16   |2022-04-23|15. `git` och Codeberg
-17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. [programmeringsdag hos Stadsbibliotheket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
+18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
 19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|Hackathon 12:00-18:00
