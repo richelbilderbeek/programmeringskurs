@@ -3,6 +3,7 @@
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
+>
 > Якщо ви з України, ласкаво просимо. [Перегляньте поширені запитання](faq.md)
 
 Att berätta för datorn vad den ska göra är kärnan inom programmering.
@@ -52,7 +53,7 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 ## Betala
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
-och 600 kr för andra (tips: medlemskap är 200 kr per år!).
+och 600 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
 Snälla, använd formatet här (`PC` betyder 'Programming Course'):
@@ -97,6 +98,14 @@ Vecka| Dag      |Vad
 .    |2022-11-19|Farsdag (också farfar, morfar, usw)
 
 ## Impressum
+
+### [Programmeringsdag](github.com/richelbilderbeek/programmeringsdag_usb_2022)
+
+[Programmeringsdag](github.com/richelbilderbeek/programmeringsdag_usb_2022)
+var en aktivität organiserat med Uppsala Stadsbibliotek. Här fanns
+19 personer, av vem 7 från UMS.
+
+![](pics/programmeringsdag_usb_2022.jpg)
 
 ### 26:e Februar 2022
 
