@@ -28,6 +28,8 @@ Vecka| Dag      |Vad
 15   |2022-04-16|Ej kurs, Påsk, 
 16   |2022-04-23|15. `git` och Codeberg
 17   |2022-04-30|Ej kurs, Valborg
+18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
+19   |2022-05-14|17. Förberada presentation
 
 ## Veckoschema 2021 semester 2
 

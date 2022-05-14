@@ -84,26 +84,23 @@ December |Presentation och utvärdering
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
-19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
-20   |2022-05-22|Hackathon 12:00-18:00
+20   |2022-05-22|[Hackathon](20220522_hackathon.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
-.    |2022-05-29|Morsdag (också farmor, mormor, usw)
-22   |2022-06-04|20. Sista lektion: eftermorsdag
+22   |2022-06-04|20. Sista lektion: [Eftermorsdag](20220604_eftermorsdag.md)
 .    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
-.    |2022-07-22|[Pi Annäherings Dag](https://github.com/richelbilderbeek/pi_approximation_day)
-33   |2022-08-20|3:e säsong, kursen förtsätter igen
-.    |2022-09-10|Kulturnatten: vi ska undervisa!
-.    |2022-11-19|Farsdag (också farfar, morfar, usw)
+.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day)
+33   |2022-08-20|3:e termin, kursen förtsätter igen
+.    |2022-09-10|[Kulturnatten](20220910_kulturnatten.md): vi får undervisar!
+.    |2022-11-19|Farsdag (också farfar, morfar, osv)
 
 ## Impressum
 
 ### [Programmeringsdag](github.com/richelbilderbeek/programmeringsdag_usb_2022)
 
 [Programmeringsdag](github.com/richelbilderbeek/programmeringsdag_usb_2022)
-var en aktivität organiserat med Uppsala Stadsbibliotek. Här fanns
-19 personer, av vem 7 från UMS.
+var en aktivitet organiserat tillsammans med Uppsala Stadsbibliotek. 
+19 personer deltog, 7 av de var från oss!
 
 ![](pics/programmeringsdag_usb_2022.jpg)
 
