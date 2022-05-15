@@ -87,9 +87,9 @@ December |Presentation och utvärdering
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 20   |2022-05-21|18. Öva presentation
-20   |2022-05-22|[Hackathon](20220522_hackathon.md) 12:00-18:00
+20   |2022-05-22|[Hackathon](activities/20220522_hackathon.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
-22   |2022-06-04|20. Sista lektion: [Eftermorsdag](20220604_eftermorsdag.md)
+22   |2022-06-04|20. Sista lektion: [Eftermorsdag](activities/20220604_eftermorsdag.md)
 
 ### Sommarlov
 
@@ -114,7 +114,7 @@ Vecka| Dag      |Vad
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 33   |2022-08-20|Programmeringskursen förtsätter igen
-.    |2022-09-10|[Kulturnatten](20220910_kulturnatten.md): vi får undervisar!
+.    |2022-09-10|[Kulturnatten](activities/20220910_kulturnatten.md): vi får undervisar!
 .    |2022-11-19|Farsdag (också farfar, morfar, osv)
 
 ## Impressum
