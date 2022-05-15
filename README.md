@@ -92,6 +92,8 @@ Vecka| Dag      |Vad
 22   |2022-06-04|20. Sista lektion: [Eftermorsdag](20220604_eftermorsdag.md)
 
 ### Sommarlov
+
+ * I sommarlov finns ochså en nya [Arduinokursen](https://github.com/richelbilderbeek/arduinokurs), 12:30-14:30
  
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
