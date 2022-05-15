@@ -20,3 +20,13 @@ När        |Vad
 17:15-17:30|Rast
 17:30-18:00|Programmering 6
 
+## Vanliga frågor
+
+### Jag kommer senare/tidigare, är det OK?
+
+Jap, det är det :-)
+
+### Jag stickar senare/tidigare, är det OK?
+
+Jap, det är det :-)
+
