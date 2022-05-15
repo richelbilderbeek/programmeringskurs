@@ -26,10 +26,10 @@ Se "Schema" nedan för mer information.
 
  * Första kursdagen: 8:e Januari 2022 (men du är alltid välkommen!)
  * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
- * Ålder: 8-18 år [*](faq.md)
+ * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
------|---------
+-----|---------------
 10:00|Dörren öppen
 10:15|Start
 11:00|Rast
@@ -41,7 +41,7 @@ När  |Vad
  * Kostnad per elev:
    * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
    * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
- * Ålder: 8-18 år [*](faq.md)
+ * Ålder: 8-88 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
 Din första lektion kan vara vilken dag som helst.
@@ -82,15 +82,36 @@ December |Presentation och utvärdering
 
 ## Veckoschema
 
+### 2:e halvår
+
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|[Hackathon](20220522_hackathon.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
 22   |2022-06-04|20. Sista lektion: [Eftermorsdag](20220604_eftermorsdag.md)
-.    |.         |Ej kurs, sommarlov, men det finns [Minecraft Quest](https://github.com/djog/minecraft_quest)
-.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day)
-33   |2022-08-20|3:e termin, kursen förtsätter igen
+
+### Sommarlov
+ 
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+25   |2022-06-25|Ej [Minecraft Quest](https://github.com/djog/minecraft_quest), Midsommar
+26   |2022-07-02|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+27   |2022-07-09|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+28   |2022-07-16|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day), 7:22 @ Uppsala Slott
+29   |2022-07-23|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+
+### 3:e harvår
+
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+33   |2022-08-20|Programmeringskursen förtsätter igen
 .    |2022-09-10|[Kulturnatten](20220910_kulturnatten.md): vi får undervisar!
 .    |2022-11-19|Farsdag (också farfar, morfar, osv)
 
