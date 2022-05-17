@@ -2,21 +2,13 @@
 
 Lag av frivilligare och när dem hjälpa
 
-## 2022 season 1
+## 2022 spring season (3rd term)
 
 Vecka|Dag       |Lag
 -----|----------|-------------------------------------
-14   |2022-04-09|14. ?, Richel
-14   |2022-04-11|Början Påsklov [2]
-14   |2022-04-14|Slut Påsklov [2]
-15   |2022-04-16|Ej kurs, Påsklov
-16   |2022-04-23|15. Christoffer, Richel
-17   |2022-04-30|Ej kurs, Valborg
-18   |2022-05-07|16. Programmerinsdag: ?Christoffer, Janne, Richel
-19   |2022-05-14|17. Janne, Richel
-20   |2022-05-21|18. ?Christoffer, Richel
+20   |2022-05-21|18. Christoffer, Richel
 21   |2022-05-28|19. Presentation: Christoffer, Janne, Richel
-22   |2022-06-04|20. Eftermorsdag, Christoffer, Richel
+22   |2022-06-04|20. Eftermorsdag: Christoffer, Richel
 
 Före dagar
 
@@ -37,8 +29,16 @@ Vecka|Dag       |Lag
 11   |2022-03-19|11. Christoffer 7, Richel
 12   |2022-03-26|12. ~~Christoffer~~ ~~Janne~~, Richel
 13   |2022-04-02|13. Janne 5, Richel
+14   |2022-04-09|14. Richel
+14   |2022-04-11|Början Påsklov [2]
+14   |2022-04-14|Slut Påsklov [2]
+15   |2022-04-16|Ej kurs, Påsklov
+16   |2022-04-23|15. Christoffer, Richel
+17   |2022-04-30|Ej kurs, Valborg
+18   |2022-05-07|16. Programmerinsdag: Christoffer, Janne, Richel
+19   |2022-05-14|17. Janne, Richel
 
-## 2021 season 2
+## 2021 autumn season (2nd term)
 
 Vecka| Dag      |Lag
 -----|----------|----------------------------
@@ -57,3 +57,9 @@ Vecka| Dag      |Lag
 49   |2021-12-11|Christoffer, Janne, Jon, Richel: Presentation och utvärdering
 50   |2021-12-18|Jon, Richel (?robot arms, ?mini lessons)
 51   |2021-12-25|Julsemester
+
+## 2021 spring season (1st term)
+
+Det fanns inget schemat för den där tiden. Laget vag
+Christoffer, Janne, Jon Richel.
+

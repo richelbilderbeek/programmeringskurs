@@ -114,3 +114,21 @@ Varje elev är vällkommna att hjälpa med för en, två eller fler timmar.
 Om du hjälper med ska du få en Uppsala Makerspace T-shirt
 så du visar dig andå duktigare :-)
 
+### 2022-05-18 till 2022-12-?? 16:00-19:00: Programmeringslag @ UMS
+
+ * Beställar pizza: 16:00, dörr öppet: 17:00, början: 17:15
+ * Vem: varje en från 13 år yng
+ * Mer information: https://github.com/tresinformal/game
+
+'tresinformal' är en internationel och
+informelt programmingslag varav den medlemmar skapar
+en datorspel i C++. Den 10+ medlemmar med ålder 13 till 45 
+använder Discord för att prata med varann.
+Där undervisar vi varann (inget problem om du inte 
+kan programmerar!), programmerar alltid i 
+en par (som kallades 'Pair Programming'), reviewar våra kod, osv.
+Du kan vara med online, IRL in Groningen (Nederländerna) och i
+våra Makerspace.
+
+Det är osäkert om tresinformal ska tar en Sommarlov.
+

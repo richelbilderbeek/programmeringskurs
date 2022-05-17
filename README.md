@@ -185,10 +185,19 @@ På slutet av en termin hade vi en presentation:
 
 > Alla bilder är användet med vänligt tillstånd av 'De Jonge Onderzoekers Groningen'
 
+## Andra kurser
+
+**Arduino**: om du tycker mer om Arduino (elektronik och programmering), 
+kollar på [Arduinokurs](https://github.com/richelbilderbeek/arduinokurs).
+
+**Programmeringslag**: om du är 13 år, 
+kann du också joina [programmeringslag 'tresinformal'](https://github.com/tresinformal/game).
+
 ## Länkar
 
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [Kursbok: 'Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar)
- * [codeberg.org: 'programmeringskurs_foer_ungdomar' hemsida](https://codeberg.org/uppsala_makerspace/programmeringskurs_foer_ungdomar)
+ * [Arduinokurs](https://github.com/richelbilderbeek/arduinokurs)
+ * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
  * [codeberg.org: 'git for youngsters' hemsida](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
