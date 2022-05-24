@@ -1,4 +1,4 @@
-# Programmeringskurs för ungdomar
+# Programmeringskurs
 
 ![](pics/uppsala_makerspace_50.png)![](pics/processing3_logo_50.png)
 
