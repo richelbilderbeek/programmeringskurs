@@ -86,8 +86,6 @@ December |Presentation och utvärdering
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-20   |2022-05-21|18. Öva presentation
-20   |2022-05-22|[Hackathon](activities/20220522_hackathon.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
 22   |2022-06-04|20. Sista lektion: [Eftermorsdag](activities/20220604_eftermorsdag.md)
 

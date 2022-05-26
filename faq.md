@@ -361,6 +361,6 @@ På dagtid jobbar Richel som [forskare på Uppsala Universitet](https://katalog.
 ## 🇬🇧🇺🇦 Frequently asked questions
 
 In short: you are always welcome, just show up between 10:00-12:00. 
-There is coffee and tea for parents and laptops and programming exercise
+There is coffee and tea for parents and laptops and programming exercises
 for the kids :-)
 

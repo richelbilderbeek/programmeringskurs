@@ -30,6 +30,8 @@ Vecka| Dag      |Vad
 17   |2022-04-30|Ej kurs, Valborg
 18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/richelbilderbeek/programmeringsdag_usb_2022), ingen kurs på Makerspacet
 19   |2022-05-14|17. Förberada presentation
+20   |2022-05-21|18. Öva presentation
+20   |2022-05-22|[Hackathon](activities/20220522_hackathon.md) 12:00-18:00
 
 ## Veckoschema 2021 semester 2
 
