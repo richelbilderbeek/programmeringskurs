@@ -86,6 +86,8 @@ Average:
 
  * (4,77 + 5 + 5 + 4 + 4 + 4,33 + 4,5 + 4,33) / 8 = 4,49125
 
+This grade, 4,49125 (n = 8) is the same as the previous time (average 4.5, n = 2).
+
 ## Results from interview
 
  * More programming languages
@@ -121,16 +123,22 @@ Average:
 
 ## Results from parents
 
+ * Parents agreed with all things discussed
  * Sometimes a kid gets stuck when working from home
 
 ## Interpretation
 
 As far as I can see, the kids and parents are happy
 and there is little criticism to work with.
-
-There are some kids that want to deepen their knowledge.
+Of course, there is a survival bias, with unhappy kids
+and parents leaving the course.
 
 There are some kids that want to get to know one another in the break.
+I will ask the kids what kind of activities they suggest.
+There are some child parks around, maybe we should go there.
 
-
-
+There are some kids that want to deepen their knowledge
+and there are some kids that want longer lessons.
+It feels the moment is right to start the Advanced Team,
+that will have lessons from 12:15-13:00, and one is only
+allowed in it when having done at least 1 lektionkort.
