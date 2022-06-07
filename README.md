@@ -82,13 +82,6 @@ December |Presentation och utvärdering
 
 ## Veckoschema
 
-### 2:e halvår
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
-21   |2022-05-28|19. Slutpresentation
-22   |2022-06-04|20. Sista lektion: [Eftermorsdag](activities/20220604_eftermorsdag.md)
-
 ### Sommarlov
 
  * I sommarlov finns ochså en nya [Arduinokursen](https://github.com/richelbilderbeek/arduinokurs), 12:30-14:30
@@ -113,9 +106,26 @@ Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 33   |2022-08-20|Programmeringskursen förtsätter igen
 .    |2022-09-10|[Kulturnatten](activities/20220910_kulturnatten.md): vi får undervisar!
-.    |2022-11-19|Farsdag (också farfar, morfar, osv)
+.    |2022-11-19|Efterfarsdag (också farfar, morfar, osv)
 
 ## Impressum
+
+### Slutpresentation på 2022-05-28
+
+![](pics/20220603/IMG_7174.JPEG)
+
+> Publiken före presentationen
+
+![](pics/20220603/IMG_7177.JPEG)
+
+> Eleverna före presentationen
+
+![](pics/20220603/IMG_7185.JPEG)
+![](pics/20220603/IMG_7186.JPEG)
+![](pics/20220603/IMG_7191.JPEG)
+![](pics/20220603/IMG_7193.JPEG)
+![](pics/20220603/IMG_7198.JPEG)
+
 
 ### [Programmeringsdag](github.com/richelbilderbeek/programmeringsdag_usb_2022)
 
@@ -164,24 +174,6 @@ Rast:
 Galenlektion:
 
 ![Uppsala Makerspace](pics/20211009/IMG_20211009_111800.jpg)
-
-### Äldre bilder
-
-Bilderna är från Richels sista kurs på [De Jonge Onderzoekers Groningen](https://www.djog.nl/):
-
-På en öppen dag undervisar våra elever (i oranga T-shirts) våra gäster:
-
-![Öppen Dag](pics/20180210OpenDagDjo_3.jpg)
-
-![Öppen Dag](pics/20191005ZpannendZernike.jpg)
-
-På slutet av en termin hade vi en presentation:
-
-![Presentation](pics/20190705_1.jpg)
-
-![Presentation](pics/20190705_3.jpg)
-
-> Alla bilder är användet med vänligt tillstånd av 'De Jonge Onderzoekers Groningen'
 
 ## Andra kurser
 
