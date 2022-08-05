@@ -87,8 +87,8 @@ December |Presentation och utvärdering
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 33   |2022-08-20|1. Programmeringskursen förtsätter igen
-34   |2022-08-27|2.
-35   |2022-09-03|3.
+34   |2022-08-27|2. Skapa T-shirt med/för 3 elever
+35   |2022-09-03|3. Skapa T-shirt med/för sista elever
 36   |2022-09-10|4. [Kulturnatten](activities/20220910_kulturnatten.md): vi undervisar!
 37   |2022-09-17|5.
 38   |2022-09-24|6.
