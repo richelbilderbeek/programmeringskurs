@@ -1,5 +1,9 @@
 # 2022-09-10 [Kulturnatten](20220910_kulturnatten.md) 
 
+![](../pics/20180210OpenDagDjo_3.jpg)
+
+> En likadant aktivität med en tidigare kurs av Richel
+
  * Målet: att undervisa programmering till Kulturnattens besökare
  * Vem: elverna från Programmeringskursen
  * Var: Uppsala Stadsbibliotek
