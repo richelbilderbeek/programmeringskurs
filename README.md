@@ -24,19 +24,19 @@ Se "Schema" nedan för mer information.
 
 ## Dagschema
 
- * Första kursdagen: ingen, du är alltid välkommen!
+ * Startdatum: Finns ej! Du är alltid välkommen!
  * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
  * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
 -----|------------
-10:00|Dörren öppen
+10:00|Dörren öppnas
 10:15|Start       
 11:00|Rast        
 11:15|Fortsättning
 12:00|Slut/rast        
-12:15|Optionelt fortsättning för elever med en diplom och vuxen
-13:00|Slut 
+12:15|Möjlig fortsättning för elever med ett diplom och vuxen
+13:00|Slut
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
@@ -46,19 +46,18 @@ När  |Vad
  * Ålder: 8-88 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
-Din första lektion kan vara vilken dag som helst.
-Även utan förvarning.
-Om du vet när du kommer är det trevligt om du berättar det för Richel: richel@richelbilderbeek.nl
+Din första lektion kan vara vid vilket av tillfällena som helst, även utan föranmälan.
+Om du vet att du kommer uppskattas det om du meddelar det till Richel: richel@richelbilderbeek.nl
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
 
-## Betala
+## Betalning
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
-och 600 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
+och 600 kr för andra per halvår (tips: medlemskap är 200 kr per år!).
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
-Snälla, använd formatet här (`PC` betyder 'Programming Course'):
+Snälla, använd detta format (`PC` betyder 'Programming Course'):
 
 ```
 PC: [nam], [email]
@@ -72,7 +71,7 @@ PC: Sven Svensson, sven@svensson.se
 
 ## Årschema
 
-Den här schemat är en generellt ide. Ser veckoschema för detaljerna.
+Detta är det övergripande schemat. Ser veckoschema för detaljerna.
 
 När      |Vad
 ---------|----------------------------
@@ -132,7 +131,7 @@ Vecka| Dag      |Vad
 
 [Programmeringsdag](github.com/richelbilderbeek/programmeringsdag_usb_2022)
 var en aktivitet organiserat tillsammans med Uppsala Stadsbibliotek. 
-19 personer deltog, 7 av de var från oss!
+19 personer deltog, 7 av dem var från oss!
 
 ![](pics/programmeringsdag_usb_2022.jpg)
 
@@ -156,7 +155,7 @@ Vi hade haft våra första två diplomanter! Grattis killar!
 
 ### 9:e Oktober 2021
 
-Den 9:e Oktober såg kurs så ut:
+Den 9:e Oktober såg kursen ut så här:
 
  * [Kolla på YouTube](https://youtu.be/xWUhRymx69w)
 
@@ -181,8 +180,8 @@ Galenlektion:
 **Arduino**: om du tycker mer om Arduino (elektronik och programmering), 
 kollar på [Arduinokurs](https://github.com/richelbilderbeek/arduinokurs).
 
-**Programmeringslag**: om du är 13 år, 
-kann du också joina [programmeringslag 'tresinformal'](https://github.com/tresinformal/game).
+**Programmeringslag**: om du är 13 år eller äldre, 
+kan du också joina [programmeringslag 'tresinformal'](https://github.com/tresinformal/game).
 
 ## Länkar
 
