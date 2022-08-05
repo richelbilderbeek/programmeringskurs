@@ -33,7 +33,11 @@ Japp, den är inte riktigt fyllt i just nu :-)
 
 ### Hur länge skulle jag hjälpa med?
 
+
 Om du hjälper med en timme är Richel redan riktigt nöjd. 
+
+Redan om du undervisar en person får du en Uppsala Makerspace 
+T-shirt (vi ska skapar den i lektionen!).
 
 Men om du kann och vill får du hjälper helt evenemangen. 
 Eller tar en timme rast före kommer tillbaka.
