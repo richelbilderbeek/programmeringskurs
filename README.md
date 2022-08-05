@@ -28,7 +28,7 @@ Se "Schema" nedan för mer information.
  * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
  * Ålder: 8-88 år [*](faq.md)
 
-När  |8-88 år     
+När  |Vad
 -----|------------
 10:00|Dörren öppen
 10:15|Start       
@@ -99,10 +99,10 @@ Vecka| Dag      |Vad
 43   |2022-10-29|11.
 44   |2022-11-05|12.
 45   |2022-11-12|13.
-46   |2022-11-19|14. Efterfarsdag (också farfar, morfar, osv)
+46   |2022-11-19|14. [Efterfarsdag](activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
 47   |2022-11-26|15.
 48   |2022-12-03|16. 
-49   |2022-12-10|17. Slutpresentation och utvärdering
+49   |2022-12-10|17. [Slutpresentation och utvärdering](activities/20221210_slutpresentation.md) (varje en är välkomna)
 50   |2022-12-17|18. Sista dag
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
