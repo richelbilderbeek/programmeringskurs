@@ -1,5 +1,9 @@
 # Slutpresentation och utvärderig
 
+![](../pics/20220603/IMG_7190.JPEG)
+
+> En tidigare slutpresentation
+
  * Målet: att elever får visar deras mästarevärk
  * Vem: varje en
  * Var: Uppsala Makerspace
