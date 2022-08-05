@@ -24,17 +24,19 @@ Se "Schema" nedan för mer information.
 
 ## Dagschema
 
- * Första kursdagen: 8:e Januari 2022 (men du är alltid välkommen!)
+ * Första kursdagen: ingen, du är alltid välkommen!
  * Dag: Varje lördag, utom på röda dagar, sommarlov och jullov
  * Ålder: 8-88 år [*](faq.md)
 
-När  |Vad
------|---------------
+När  |8-88 år     
+-----|------------
 10:00|Dörren öppen
-10:15|Start
-11:00|Rast
+10:15|Start       
+11:00|Rast        
 11:15|Fortsättning
-12:00|Slut
+12:00|Slut/rast        
+12:15|Optionelt fortsättning för elever med en diplom och vuxen
+13:00|Slut 
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
@@ -82,31 +84,30 @@ December |Presentation och utvärdering
 
 ## Veckoschema
 
-### Sommarlov
-
- * I sommarlov finns ochså en nya [Arduinokursen](https://github.com/richelbilderbeek/arduinokurs), 12:30-14:30
- 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-25   |2022-06-25|Ej [Minecraft Quest](https://github.com/djog/minecraft_quest), Midsommar
-26   |2022-07-02|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-27   |2022-07-09|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-28   |2022-07-16|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day), 7:22 @ Uppsala Slott
-29   |2022-07-23|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-
-### 3:e harvår
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
-33   |2022-08-20|Programmeringskursen förtsätter igen
-.    |2022-09-10|[Kulturnatten](activities/20220910_kulturnatten.md): vi får undervisar!
-.    |2022-11-19|Efterfarsdag (också farfar, morfar, osv)
+33   |2022-08-20|1. Programmeringskursen förtsätter igen
+34   |2022-08-27|2.
+35   |2022-09-03|3.
+36   |2022-09-10|4. [Kulturnatten](activities/20220910_kulturnatten.md): vi undervisar!
+37   |2022-09-17|5.
+38   |2022-09-24|6.
+39   |2022-10-01|7.
+40   |2022-10-08|8.
+41   |2022-10-15|9.
+42   |2022-10-22|10.
+43   |2022-10-29|11.
+44   |2022-11-05|12.
+45   |2022-11-12|13.
+46   |2022-11-19|14. Efterfarsdag (också farfar, morfar, osv)
+47   |2022-11-26|15.
+48   |2022-12-03|16. 
+49   |2022-12-10|17. Slutpresentation och utvärdering
+50   |2022-12-17|18. Sista dag
+51   |2022-12-24|Jullov
+52   |2022-12-31|Jullov
+52   |2022-12-30|Jullov
+ 1   |2023-01-07|1. Kurs försätter igen
 
 ## Impressum
 

@@ -2,6 +2,24 @@
 
 Den här är gammla veckoschemar.
 
+### Sommarlov 2022
+
+ * I sommarlov finns ochså en nya [Arduinokursen](https://github.com/richelbilderbeek/arduinokurs), 12:30-14:30
+ 
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+25   |2022-06-25|Ej [Minecraft Quest](https://github.com/djog/minecraft_quest), Midsommar
+26   |2022-07-02|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+27   |2022-07-09|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+28   |2022-07-16|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day), 7:22 @ Uppsala Slott
+29   |2022-07-23|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+
 ## Veckoschema 2022 semester 1
 
 Vecka| Dag      |Vad
