@@ -95,14 +95,14 @@ Vecka| Dag      |Vad
 40   |2022-10-08|8.
 41   |2022-10-15|9.
 42   |2022-10-22|10.
-43   |2022-10-29|11.
-44   |2022-11-05|12.
-45   |2022-11-12|13.
-46   |2022-11-19|14. [Efterfarsdag](activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
-47   |2022-11-26|15.
-48   |2022-12-03|16. 
-49   |2022-12-10|17. [Slutpresentation och utvärdering](activities/20221210_slutpresentation.md) (varje en är välkomna)
-50   |2022-12-17|18. Sista dag
+43   |2022-10-29|Höstlov
+44   |2022-11-05|Höstlov
+45   |2022-11-12|11.
+46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
+47   |2022-11-26|13.
+48   |2022-12-03|14. 
+49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation.md) (varje en är välkomna)
+50   |2022-12-17|16. Sista dag
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
 52   |2022-12-30|Jullov
