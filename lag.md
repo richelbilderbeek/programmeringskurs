@@ -4,7 +4,7 @@
 
 Vecka| Dag      |Vem
 -----|----------|-------------------------------------
-33   |2022-08-20|1. Richel
+33   |2022-08-20|1. Richel, ~~Christoffer~~
 34   |2022-08-27|2. Richel
 35   |2022-09-03|3. Richel
 36   |2022-09-10|4. [Kulturnatten](activities/20220910_kulturnatten.md): Richel
