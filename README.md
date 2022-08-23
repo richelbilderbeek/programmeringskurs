@@ -31,10 +31,10 @@ Se "Schema" nedan för mer information.
 När  |Vad
 -----|------------
 10:00|Dörren öppnas
-10:15|Start       
-11:00|Rast        
+10:15|Start
+11:00|Rast
 11:15|Fortsättning
-12:00|Slut/rast        
+12:00|Slut/rast
 12:15|Möjlig fortsättning för elever med ett diplom och vuxen
 13:00|Slut
 
