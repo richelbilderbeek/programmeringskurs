@@ -1,8 +1,12 @@
 # Publicity
 
-Flyer to distribute at Kulturnatten about UMS
+Flyer to distribute at Kulturnatten about UMS.
 
-## Generelt
+## Flyer
+
+ * Flyer [.pdf](20220910_kulturnatten.pdf) [.odg](20220910_kulturnatten.odg)
+
+## Plain-text
 
 [logo UMS]
 
