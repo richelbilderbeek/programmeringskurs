@@ -22,6 +22,13 @@ Därefter, när du är i ett lag, kan ni välja ert eget programmeringsspråk.
 
 Se "Schema" nedan för mer information.
 
+ * Tycker du mer om att skapa och programmera elektroniska maskiner,
+   kanske [Arduinokursen](https://github.com/richelbilderbeek/arduinokurs)
+   passar dig bättre
+ * Tycker du mer om att skapa datorspel med bara vuxna
+   kanske [programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
+   passar dig bättre
+
 ## Dagschema
 
  * Startdatum: Finns ej! Du är alltid välkommen!
