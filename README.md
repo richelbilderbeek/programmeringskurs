@@ -115,6 +115,21 @@ Vecka| Dag      |Vad
 52   |2022-12-30|Jullov
  1   |2023-01-07|1. Kurs försätter igen
 
+## Extratimmar
+
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+37   |2022-09-17|5. R: Kommunication emellan Arduino och Processing
+38   |2022-09-24|6. R: Kapacitative sensor
+39   |2022-10-01|7. 
+40   |2022-10-08|8.
+41   |2022-10-15|9.
+42   |2022-10-22|10.
+45   |2022-11-12|11.
+47   |2022-11-26|13.
+48   |2022-12-03|14. 
+50   |2022-12-17|16. Sista dag
+
 ## Impressum
 
 ### Slutpresentation på 2022-05-28
