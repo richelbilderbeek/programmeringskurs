@@ -185,3 +185,67 @@ void setup()
 
 'Test-Driven Development' är en väg att ökar programmer systematiskt
 och med litare debugging.
+
+ * Tests är del av programmet!
+
+## Förenkling
+
+```processing
+String rumeral(int number)
+{
+  String s = "";
+  if (number % 10 == 1) s += "I";
+  if (number % 10 == 2) s += "II";
+  if (number % 10 == 3) s += "III";
+  if (number % 10 == 4) s += "IV";
+  if (number % 10 == 5) s += "V";
+
+  if (number % 100 == 10) s += "X";
+  if (number % 100 == 20) s += "XX";
+  if (number % 100 == 30) s += "XXX";
+  if (number % 100 == 40) s += "XL";
+  if (number % 100 == 50) s += "L";
+
+  if (number % 1000 == 100) s += "C";
+  if (number % 1000 == 200) s += "CC";
+  if (number % 1000 == 300) s += "CCC";
+  if (number % 1000 == 400) s += "CD";
+  if (number % 1000 == 500) s += "D";
+  
+  if (number % 10000 == 1000) s += "M";
+  if (number % 10000 == 2000) s += "MM";
+  if (number % 10000 == 3000) s += "MMM";
+  if (number % 10000 == 4000) s += "MI-";
+  if (number % 10000 == 5000) s += "I-";
+return s;
+}
+
+void skulle_vara_samma(final String resultat, final String expected)
+{
+  if (!resultat.equals(expected)) 
+  { 
+    print("'"); 
+    print(resultat); 
+    print("' skulle vara '");
+    print(expected);
+    println("'"); 
+  }
+}
+
+void setup()
+{
+  skulle_vara_samma(rumeral(1), "I");
+  skulle_vara_samma(rumeral(2), "II");
+  skulle_vara_samma(rumeral(3), "III");
+  skulle_vara_samma(rumeral(4), "IV");
+  skulle_vara_samma(rumeral(5), "V");
+  skulle_vara_samma(rumeral(10), "X");
+  skulle_vara_samma(rumeral(40), "XL");
+  skulle_vara_samma(rumeral(50), "L");
+  skulle_vara_samma(rumeral(100), "C");
+  skulle_vara_samma(rumeral(500), "D");
+  skulle_vara_samma(rumeral(1000), "M");
+}
+```
+
+Funkar!
