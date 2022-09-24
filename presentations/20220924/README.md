@@ -1,12 +1,14 @@
-# Debugging
+# 20220924_debugging
+
+10 minuter presentation för Extratimme eleverna.
 
 ## Debugging
 
- * Var: att ta bort fel vi har skrivit
+ * Vad: att ta bort fel vi har skrivit
  * Varför: 
    * vi ska behöver debugging
    * 80% av tid du programmerar är debugging:
-     att lära sig debugging gör dig effecientare
+     att lära sig debugging gör dig effektivare
 
 ## Problemet
 
