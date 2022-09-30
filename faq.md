@@ -52,9 +52,13 @@ Tack för att du läste detta, för 8 år är bara en riktlinje!
 Denna riktlinje finns av en anledning: programmering är en
 svår (men cool!) hobby.
 
-Om du är yngre än 8 år och redan har kommit igång med att programmera är du mycket välkommen!
+Om du är yngre än 8 år och redan har kommit igång med att programmera 
+är du mycket välkommen!
 
-Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att koncentrera sig långa stunder och det krävs också mer av läraren. Så vår riktlinje är att man bör vara minst 8 år gammal.
+Vår erfarenhet säger oss att barn under 8 år som regel 
+kan ha svårt att koncentrera sig långa stunder 
+och det krävs också mer av läraren. 
+Så vår riktlinje är att man bör vara minst 8 år gammal.
 
 ### Jag är över 18 år. Är jag välkommen?
 
