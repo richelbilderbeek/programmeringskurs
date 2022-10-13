@@ -5,9 +5,20 @@
  * Var: Uppsala Makerspace
  * Kostnad: ingenting
  * Tiderna: samma schema som vanligt
+ * När: Vanliga tider, see nedåt
 
-Den här acktivitet är att ha en vanligt lektion, 
+När  |Vad
+-----|------------
+10:00|Dörren öppnas
+10:15|Start
+11:00|Rast
+11:15|Fortsättning
+12:00|Slut
+
+Den här acktivitet är en vanligt lektion, 
 men med fäder som är extra elever.
+Eleverna undervisar och fädrar äntligen får lära sig 
+vilken coola grejer vi gör i vår kurs!
 Självklart, fäder behöver (alcoholfri) öl och donuts, så den finns :-)
 
 ## Vanliga frågor
