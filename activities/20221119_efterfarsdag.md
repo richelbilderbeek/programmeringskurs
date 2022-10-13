@@ -5,7 +5,7 @@
  * Var: Uppsala Makerspace
  * Kostnad: ingenting
  * Tiderna: samma schema som vanligt
- * När: Vanliga tider, see nedåt
+ * När: Lördag 19:e November 2022, på den vanliga tider, se nedåt
 
 När  |Vad
 -----|------------
