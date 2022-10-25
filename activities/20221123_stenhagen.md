@@ -1,8 +1,13 @@
 # 2022-11-23
 
+ * Introduce game development to teenagers 
+ * Target group: 10x 12-18 year olds
+ * When: Wednesday 23rd November 2022 15:30-19:30
  * Where:  bibliotek Stenhagen
- * When: Wednesday 23rd November 2022
  * Assist: with some luck: 2x 14 year old teenagers
+ * Stuff to bring:
+    * Helya: 5x laptop with Processing and git
+    * Richel: 5x laptop with Processing and git
 
 When        | What
 ------------|-----------
