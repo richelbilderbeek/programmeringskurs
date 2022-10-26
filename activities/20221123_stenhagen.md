@@ -6,8 +6,8 @@
  * Where:  bibliotek Stenhagen
  * Assist: with some luck: 2x 14 year old teenagers
  * Stuff to bring:
-    * Helya: 5x laptop with Processing and git
-    * Richel: 5x laptop with Processing and git
+    * Helya: 7x laptop with Processing and git
+    * Richel: 3x laptop with Processing and git
 
 When        | What
 ------------|-----------
