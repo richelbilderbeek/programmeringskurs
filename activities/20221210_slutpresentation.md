@@ -6,9 +6,11 @@
 
  * Målet: att elever får visar deras mästarevärk
  * Vem: varje en
- * Var: Uppsala Makerspace
+ * Var: ~~Uppsala Makerspace~~ Uppsala Stadsbibliotek
  * Kostnad: ingenting
- * Tiderna: samma schema som vanligt
+ * Tiderna: ~~samma schema som vanligt~~ 11.00-13.00
+
+[Update schedule below after confirmatio by USB]
 
 När  |Besökare                       | Elever
 -----|-------------------------------|-----------
