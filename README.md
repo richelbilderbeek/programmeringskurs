@@ -105,7 +105,7 @@ Vecka| Dag      |Vad
 43   |2022-10-29|Höstlov
 44   |2022-11-05|Höstlov
 45   |2022-11-12|11. Förbereda slutpresentation, 2/4
-46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
+46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
 47   |2022-11-26|13. Förbereda slutpresentation, 3/4
 48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
 49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation.md) (varje en är välkomna)
