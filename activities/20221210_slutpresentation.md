@@ -6,21 +6,22 @@
 
  * Målet: att elever får visar deras mästarevärk
  * Vem: varje en
- * Var: ~~Uppsala Makerspace~~ Uppsala Stadsbibliotek
+ * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
  * Kostnad: ingenting
- * Tiderna: ~~samma schema som vanligt~~ 11.00-13.00
+ * Tiderna: 11.00-13.00
 
-[Update schedule below after confirmatio by USB]
+När  |Besökare                           | Elever
+-----|-----------------------------------|-----------------------
+11:00|Dör öpnas [G]                      | Dör öpnas [M]
+11:15|Väntar med kaffe, te och kakor [G] | Förbereda presentation [M]
+11:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
+12:00|Rast [M]                           | Rast  [M]
+12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
+13:00|Slut                               | Slut
 
-När  |Besökare                       | Elever
------|-------------------------------|-----------
- 9:00|Dör öpnas                      | Dör öpnas
-10:00|Dör öpnas                      | Dör öpnas
-10:15|Väntar med kaffe, te och kakor | Förbereda presentation
-10:30|Kollar på presentationer       | Ger presentationer
-11:00|Rast                           | Rast
-11:15|Utvärdering med föräldrar      | Anonym utvärdering
-12:00|Slut                           | Slut
+ * [G] Grupprum
+ * [M] Mallassal
+ * [B] Biblioteket
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
