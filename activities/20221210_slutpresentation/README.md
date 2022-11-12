@@ -19,11 +19,15 @@ När  |Besökare                           | Elever
 12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
 13:00|Slut                               | Slut
 
- * [G] Grupprum
+ * [G] Grupprum brevid Mallassal
  * [M] Mallassal
  * [B] Biblioteket
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
+
+![](usb.png)
+
+> Det är här
 
 ## Presentationsschema
 
