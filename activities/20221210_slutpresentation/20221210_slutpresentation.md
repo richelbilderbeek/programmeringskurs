@@ -13,7 +13,7 @@
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
 11:00|Dör öpnas [G]                      | Dör öpnas [M]
-11:15|Väntar med kaffe, te och kakor [G] | Förbereda presentation [M]
+11:01|Väntar med kaffe, te och kakor [G] | Förbereda presentation [M]
 11:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
 12:00|Rast [M]                           | Rast  [M]
 12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]

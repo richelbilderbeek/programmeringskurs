@@ -52,4 +52,4 @@ Jag förstör att det är en svårt moment!
 Därför finns det alkoholfri öl och donuts för dig.
 Det blir en fin dag!
 
-Tufft box, din son/sonson/morson/farson/orelaterade son
+Adjöken, din dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/orelaterade son
