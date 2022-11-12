@@ -4,6 +4,8 @@
 
 > En tidigare slutpresentation
 
+ * Vad: Slutpresentation och utvärderig
+ * När: Lördag 10:e December
  * Målet: att elever får visar deras mästarevärk
  * Vem: varje en
  * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
