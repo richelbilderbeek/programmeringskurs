@@ -25,7 +25,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
 När som helst!
 
-Det är alltid trevligt om du skickar ett mejl först till Richel, `richel@richelbilderbeek.nl`, så att han kan ta emot dig :-)
+Det är alltid trevligt om du skickar ett mejl först till Richel, `rjcbilderbeek@gmail.com`, så att han kan ta emot dig :-)
 
 ### Kan jag prova på en gång?
 
@@ -33,7 +33,7 @@ Javisst!
 
 Det kostar ingenting första gången, det är viktigt att deltagarna känner att de hamnat rätt! 
 
-Men skicka gärna ett mejl först till Richel, `richel@richelbilderbeek.nl`, så att är beredd att ta emot dig. :-)
+Men skicka gärna ett mejl först till Richel, `rjcbilderbeek@gmail.com`, så att är beredd att ta emot dig. :-)
 
 ### Om jag inte trivs, kan jag sluta när som helst?
 
@@ -203,7 +203,7 @@ Det bästa sättet att lära sig är att få berätta för en kompis.
 
 Inget problem! 
 
-Men skicka gärna ett mail till Richel,`richel@richelbilderbeek.nl` och meddela detta.
+Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
 
 ## Förväntningar på föräldrar
 
@@ -226,7 +226,7 @@ Vi försöker då ordna så du är i en annan grupp än ditt/dina barn, se fråg
 Inget problem! 
 
 
-Men skicka gärna ett mail till Richel,`richel@richelbilderbeek.nl` och meddela detta.
+Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
 
 ## Förväntningar på volontärer / frivilliga
 
